@@ -4,6 +4,8 @@ channels:
   - conda-forge
   - pytorch
 dependencies:
+  - h5netcdf 
+  - python-dotenv
   - cartopy
   - _libgcc_mutex=0.1=conda_forge
   - _openmp_mutex=4.5=2_kmp_llvm
@@ -355,7 +357,9 @@ dependencies:
   - pip:
       - netcdf4==1.7.1.post2
       - git+ssh://git@gitlab.dmi.dk/remote-sensing/twu/eoutils.git
-
+      - polars
+      - py-eodms-rapi
+      - git+https://github.com/eodms-sgdot/py-eodms-dds.git
 
 
 

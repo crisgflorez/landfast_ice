@@ -8,6 +8,7 @@ import geopandas as gpd
 from datetime import datetime
 import pandas as pd
 import geopandas as gpd
+import os
 
 class NorthPolStere(cartopy.crs.Projection):
     def __init__(self):
