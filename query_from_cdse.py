@@ -214,7 +214,7 @@ with open("/dmidata/users/cgf/files/files_with_fast_ice_dmi_cis_met.txt", "r") a
         points = [Point(lon, lat) for lon, lat in zip(lons, lats)]
         footprint = MultiPoint(points).convex_hull
         nc_dts = get_timestamp(os.path.basename(nc_file))
-        nc_footprint=reproject_geometry(footprint, fromEPSG=4326, toEPSG=3411)
+        #nc_footprint=reproject_geometry(footprint, fromEPSG=4326, toEPSG=3411)
 
         n_lines = len(np.unique(ds.sar_grid_line.values))
         n_samples = len(np.unique(ds.sar_grid_sample.values))

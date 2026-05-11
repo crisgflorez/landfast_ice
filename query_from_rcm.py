@@ -432,9 +432,6 @@ with open("/dmidata/users/cgf/files/files_with_fast_ice_dmi_cis_met.txt", "r") a
             nc_folder = os.path.join('/dmidata/projects/asip-cms/cgf', date_str)
             os.makedirs(nc_folder, exist_ok=True)
 
-            # Skip already-downloaded files
-            all_matches = {m for m in all_matches if not os.path.exists(os.path.join(nc_folder, f"{m}.zip"))}
-
             uuids = list(all_matches)
             args = [(uuid, nc_folder) for uuid in uuids]
             with multiprocessing.Pool(processes=rcm_download_processes) as p:
