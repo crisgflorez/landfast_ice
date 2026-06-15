@@ -1,0 +1,2013 @@
+Processing row 310
+Error processing row 310
+"There is no item named 'RCM3_OK1061251_PK1073416_1_SCLNA_20200412_103647_HH_HV_GRD.SAFE/manifest.safe' in the archive"
+Processing row 311
+[INFO: 2026-05-31 06:25:29: eoutils.S1Processor] Processesing started for S1A_EW_GRDM_1SDH_20200413T105610_20200413T105714_032108_03B609_1914.SAFE.zip
+[INFO: 2026-05-31 06:25:29: eoutils.S1Processor] Processing band 1/2: HH
+[INFO: 2026-05-31 06:25:30: eoutils.S1Processor] Calibration and thermal noise removal...
+[INFO: 2026-05-31 06:25:34: eoutils.S1Processor] Converting to dB...
+[INFO: 2026-05-31 06:25:35: eoutils.S1Processor] Processing band 2/2: HV
+[INFO: 2026-05-31 06:25:36: eoutils.S1Processor] Calibration and thermal noise removal...
+[INFO: 2026-05-31 06:25:40: eoutils.S1Processor] Converting to dB...
+[INFO: 2026-05-31 06:25:42: eoutils.S1Processor] Processing finished in 12.94s.
+[INFO: 2026-05-31 06:25:47: eoutils.S1Processor] Processesing started for S1B_EW_GRDM_1SDH_20200412T110321_20200412T110426_021110_0280E9_960B.SAFE.zip
+[INFO: 2026-05-31 06:25:47: eoutils.S1Processor] Processing band 1/2: HH
+[INFO: 2026-05-31 06:25:49: eoutils.S1Processor] Calibration and thermal noise removal...
+[INFO: 2026-05-31 06:25:53: eoutils.S1Processor] Converting to dB...
+[INFO: 2026-05-31 06:25:54: eoutils.S1Processor] Processing band 2/2: HV
+[INFO: 2026-05-31 06:25:56: eoutils.S1Processor] Calibration and thermal noise removal...
+[INFO: 2026-05-31 06:26:00: eoutils.S1Processor] Converting to dB...
+[INFO: 2026-05-31 06:26:01: eoutils.S1Processor] Processing finished in 13.65s.
+100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 14/14 [00:08<00:00,  1.72it/s]
+Processing row 312
+[INFO: 2026-05-31 06:28:59: eoutils.S1Processor] Processesing started for S1A_EW_GRDM_1SDH_20200411T111230_20200411T111334_032079_03B50D_D9B5.SAFE.zip
+[INFO: 2026-05-31 06:28:59: eoutils.S1Processor] Processing band 1/2: HH
+[INFO: 2026-05-31 06:29:00: eoutils.S1Processor] Calibration and thermal noise removal...
+[INFO: 2026-05-31 06:29:04: eoutils.S1Processor] Converting to dB...
+[INFO: 2026-05-31 06:29:05: eoutils.S1Processor] Processing band 2/2: HV
+[INFO: 2026-05-31 06:29:07: eoutils.S1Processor] Calibration and thermal noise removal...
+[INFO: 2026-05-31 06:29:10: eoutils.S1Processor] Converting to dB...
+[INFO: 2026-05-31 06:29:12: eoutils.S1Processor] Processing finished in 13.06s.
+[INFO: 2026-05-31 06:29:17: eoutils.S1Processor] Processesing started for S1B_EW_GRDM_1SDH_20200412T110321_20200412T110426_021110_0280E9_960B.SAFE.zip
+[INFO: 2026-05-31 06:29:17: eoutils.S1Processor] Processing band 1/2: HH
+[INFO: 2026-05-31 06:29:18: eoutils.S1Processor] Calibration and thermal noise removal...
+[INFO: 2026-05-31 06:29:22: eoutils.S1Processor] Converting to dB...
+[INFO: 2026-05-31 06:29:22: eoutils.S1Processor] Processing band 2/2: HV
+[INFO: 2026-05-31 06:29:23: eoutils.S1Processor] Calibration and thermal noise removal...
+[INFO: 2026-05-31 06:29:27: eoutils.S1Processor] Converting to dB...
+[INFO: 2026-05-31 06:29:28: eoutils.S1Processor] Processing finished in 10.89s.
+100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 12/12 [00:04<00:00,  2.49it/s]
+Processing row 313
+[INFO: 2026-05-31 06:32:20: eoutils.S1Processor] Processesing started for S1B_EW_GRDM_1SDH_20200417T205518_20200417T205618_021189_028353_CD12.SAFE.zip
+[INFO: 2026-05-31 06:32:20: eoutils.S1Processor] Processing band 1/2: HH
+[INFO: 2026-05-31 06:32:21: eoutils.S1Processor] Calibration and thermal noise removal...
+[INFO: 2026-05-31 06:32:25: eoutils.S1Processor] Converting to dB...
+[INFO: 2026-05-31 06:32:26: eoutils.S1Processor] Processing band 2/2: HV
+[INFO: 2026-05-31 06:32:27: eoutils.S1Processor] Calibration and thermal noise removal...
+[INFO: 2026-05-31 06:32:31: eoutils.S1Processor] Converting to dB...
+[INFO: 2026-05-31 06:32:32: eoutils.S1Processor] Processing finished in 12.45s.
+[INFO: 2026-05-31 06:32:38: eoutils.S1Processor] Processesing started for S1A_EW_GRDM_1SDH_20200417T102428_20200417T102532_032166_03B823_59F1.SAFE.zip
+[INFO: 2026-05-31 06:32:38: eoutils.S1Processor] Processing band 1/2: HH
+[INFO: 2026-05-31 06:32:39: eoutils.S1Processor] Calibration and thermal noise removal...
+[INFO: 2026-05-31 06:32:43: eoutils.S1Processor] Converting to dB...
+[INFO: 2026-05-31 06:32:44: eoutils.S1Processor] Processing band 2/2: HV
+[INFO: 2026-05-31 06:32:45: eoutils.S1Processor] Calibration and thermal noise removal...
+[INFO: 2026-05-31 06:32:49: eoutils.S1Processor] Converting to dB...
+[INFO: 2026-05-31 06:32:51: eoutils.S1Processor] Processing finished in 12.78s.
+100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 10/10 [00:03<00:00,  2.72it/s]
+Processing row 314
+[INFO: 2026-05-31 06:35:35: eoutils.S1Processor] Processesing started for S1B_EW_GRDM_1SDH_20200416T103207_20200416T103307_021168_0282AF_D4AC.SAFE.zip
+[INFO: 2026-05-31 06:35:35: eoutils.S1Processor] Processing band 1/2: HH
+[INFO: 2026-05-31 06:35:37: eoutils.S1Processor] Calibration and thermal noise removal...
+[INFO: 2026-05-31 06:35:40: eoutils.S1Processor] Converting to dB...
+[INFO: 2026-05-31 06:35:41: eoutils.S1Processor] Processing band 2/2: HV
+[INFO: 2026-05-31 06:35:42: eoutils.S1Processor] Calibration and thermal noise removal...
+[INFO: 2026-05-31 06:35:46: eoutils.S1Processor] Converting to dB...
+[INFO: 2026-05-31 06:35:47: eoutils.S1Processor] Processing finished in 11.64s.
+[INFO: 2026-05-31 06:35:52: eoutils.S1Processor] Processesing started for S1A_EW_GRDM_1SDH_20200417T102428_20200417T102532_032166_03B823_59F1.SAFE.zip
+[INFO: 2026-05-31 06:35:52: eoutils.S1Processor] Processing band 1/2: HH
+[INFO: 2026-05-31 06:35:53: eoutils.S1Processor] Calibration and thermal noise removal...
+[INFO: 2026-05-31 06:35:57: eoutils.S1Processor] Converting to dB...
+[INFO: 2026-05-31 06:35:57: eoutils.S1Processor] Processing band 2/2: HV
+[INFO: 2026-05-31 06:35:58: eoutils.S1Processor] Calibration and thermal noise removal...
+[INFO: 2026-05-31 06:36:02: eoutils.S1Processor] Converting to dB...
+[INFO: 2026-05-31 06:36:03: eoutils.S1Processor] Processing finished in 10.94s.
+100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 8/8 [00:03<00:00,  2.54it/s]
+Processing row 315
+[INFO: 2026-05-31 06:38:53: eoutils.S1Processor] Processesing started for S1B_EW_GRDM_1SDH_20200421T202223_20200421T202323_021247_02851E_1D01.SAFE.zip
+[INFO: 2026-05-31 06:38:53: eoutils.S1Processor] Processing band 1/2: HH
+[INFO: 2026-05-31 06:38:54: eoutils.S1Processor] Calibration and thermal noise removal...
+[INFO: 2026-05-31 06:39:00: eoutils.S1Processor] Converting to dB...
+[INFO: 2026-05-31 06:39:01: eoutils.S1Processor] Processing band 2/2: HV
+[INFO: 2026-05-31 06:39:02: eoutils.S1Processor] Calibration and thermal noise removal...
+[INFO: 2026-05-31 06:39:08: eoutils.S1Processor] Converting to dB...
+[INFO: 2026-05-31 06:39:10: eoutils.S1Processor] Processing finished in 17.42s.
+[INFO: 2026-05-31 06:39:16: eoutils.S1Processor] Processesing started for S1B_EW_GRDM_1SDH_20200421T104013_20200421T104113_021241_0284F1_CC77.SAFE.zip
+[INFO: 2026-05-31 06:39:16: eoutils.S1Processor] Processing band 1/2: HH
+[INFO: 2026-05-31 06:39:18: eoutils.S1Processor] Calibration and thermal noise removal...
+[INFO: 2026-05-31 06:39:23: eoutils.S1Processor] Converting to dB...
+[INFO: 2026-05-31 06:39:24: eoutils.S1Processor] Processing band 2/2: HV
+[INFO: 2026-05-31 06:39:26: eoutils.S1Processor] Calibration and thermal noise removal...
+[INFO: 2026-05-31 06:39:31: eoutils.S1Processor] Converting to dB...
+[INFO: 2026-05-31 06:39:33: eoutils.S1Processor] Processing finished in 16.81s.
+100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 5/5 [00:01<00:00,  2.78it/s]
+Processing row 316
+[INFO: 2026-05-31 06:42:10: eoutils.S1Processor] Processesing started for S1A_EW_GRDM_1SDH_20200424T102036_20200424T102059_032268_03BBA9_CB87.SAFE.zip
+[INFO: 2026-05-31 06:42:10: eoutils.S1Processor] Processing band 1/2: HH
+[INFO: 2026-05-31 06:42:11: eoutils.S1Processor] Calibration and thermal noise removal...
+[INFO: 2026-05-31 06:42:12: eoutils.S1Processor] Converting to dB...
+[INFO: 2026-05-31 06:42:13: eoutils.S1Processor] Processing band 2/2: HV
+[INFO: 2026-05-31 06:42:13: eoutils.S1Processor] Calibration and thermal noise removal...
+[INFO: 2026-05-31 06:42:15: eoutils.S1Processor] Converting to dB...
+[INFO: 2026-05-31 06:42:15: eoutils.S1Processor] Processing finished in 4.98s.
+[INFO: 2026-05-31 06:42:20: eoutils.S1Processor] Processesing started for S1B_EW_GRDM_1SDH_20200423T214037_20200423T214142_021277_02862A_97B6.SAFE.zip
+[INFO: 2026-05-31 06:42:20: eoutils.S1Processor] Processing band 1/2: HH
+[INFO: 2026-05-31 06:42:22: eoutils.S1Processor] Calibration and thermal noise removal...
+[INFO: 2026-05-31 06:42:26: eoutils.S1Processor] Converting to dB...
+[INFO: 2026-05-31 06:42:27: eoutils.S1Processor] Processing band 2/2: HV
+[INFO: 2026-05-31 06:42:28: eoutils.S1Processor] Calibration and thermal noise removal...
+[INFO: 2026-05-31 06:42:32: eoutils.S1Processor] Converting to dB...
+[INFO: 2026-05-31 06:42:34: eoutils.S1Processor] Processing finished in 13.42s.
+100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 6/6 [00:02<00:00,  2.24it/s]
+Processing row 317
+Error processing row 317
+"There is no item named 'RCM3_OK1063089_PK1079249_1_SCLNA_20200424_103647_HH_HV_GRD.SAFE/manifest.safe' in the archive"
+Processing row 318
+[INFO: 2026-05-31 06:44:26: eoutils.S1Processor] Processesing started for S1B_EW_GRDM_1SDH_20200423T214037_20200423T214142_021277_02862A_97B6.SAFE.zip
+[INFO: 2026-05-31 06:44:26: eoutils.S1Processor] Processing band 1/2: HH
+[INFO: 2026-05-31 06:44:29: eoutils.S1Processor] Calibration and thermal noise removal...
+[INFO: 2026-05-31 06:44:33: eoutils.S1Processor] Converting to dB...
+[INFO: 2026-05-31 06:44:34: eoutils.S1Processor] Processing band 2/2: HV
+[INFO: 2026-05-31 06:44:36: eoutils.S1Processor] Calibration and thermal noise removal...
+[INFO: 2026-05-31 06:44:40: eoutils.S1Processor] Converting to dB...
+[INFO: 2026-05-31 06:44:42: eoutils.S1Processor] Processing finished in 15.75s.
+[INFO: 2026-05-31 06:44:45: eoutils.S1Processor] Processesing started for S1A_EW_GRDM_1SDH_20200424T102036_20200424T102059_032268_03BBA9_CB87.SAFE.zip
+[INFO: 2026-05-31 06:44:45: eoutils.S1Processor] Processing band 1/2: HH
+[INFO: 2026-05-31 06:44:46: eoutils.S1Processor] Calibration and thermal noise removal...
+[INFO: 2026-05-31 06:44:47: eoutils.S1Processor] Converting to dB...
+[INFO: 2026-05-31 06:44:47: eoutils.S1Processor] Processing band 2/2: HV
+[INFO: 2026-05-31 06:44:48: eoutils.S1Processor] Calibration and thermal noise removal...
+[INFO: 2026-05-31 06:44:50: eoutils.S1Processor] Converting to dB...
+[INFO: 2026-05-31 06:44:50: eoutils.S1Processor] Processing finished in 5.10s.
+100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 7/7 [00:02<00:00,  2.54it/s]
+Processing row 319
+[INFO: 2026-05-31 06:46:39: eoutils.S1Processor] Processesing started for S1B_EW_GRDM_1SDH_20200505T214038_20200505T214142_021452_028BB7_7E3D.SAFE.zip
+[INFO: 2026-05-31 06:46:39: eoutils.S1Processor] Processing band 1/2: HH
+[INFO: 2026-05-31 06:46:40: eoutils.S1Processor] Calibration and thermal noise removal...
+[INFO: 2026-05-31 06:46:45: eoutils.S1Processor] Converting to dB...
+[INFO: 2026-05-31 06:46:45: eoutils.S1Processor] Processing band 2/2: HV
+[INFO: 2026-05-31 06:46:47: eoutils.S1Processor] Calibration and thermal noise removal...
+[INFO: 2026-05-31 06:46:51: eoutils.S1Processor] Converting to dB...
+[INFO: 2026-05-31 06:46:52: eoutils.S1Processor] Processing finished in 13.79s.
+[INFO: 2026-05-31 06:46:58: eoutils.S1Processor] Processesing started for S1A_EW_GRDM_1SDH_20200506T101936_20200506T102036_032443_03C1D0_8286.SAFE.zip
+[INFO: 2026-05-31 06:46:58: eoutils.S1Processor] Processing band 1/2: HH
+[INFO: 2026-05-31 06:46:59: eoutils.S1Processor] Calibration and thermal noise removal...
+[INFO: 2026-05-31 06:47:03: eoutils.S1Processor] Converting to dB...
+[INFO: 2026-05-31 06:47:04: eoutils.S1Processor] Processing band 2/2: HV
+[INFO: 2026-05-31 06:47:05: eoutils.S1Processor] Calibration and thermal noise removal...
+[INFO: 2026-05-31 06:47:09: eoutils.S1Processor] Converting to dB...
+[INFO: 2026-05-31 06:47:11: eoutils.S1Processor] Processing finished in 12.65s.
+100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 3/3 [00:01<00:00,  2.43it/s]
+Processing row 320
+Error processing row 320
+"There is no item named 'RCM3_OK1069402_PK1093593_1_SCLNA_20200506_103650_HH_HV_GRD.SAFE/manifest.safe' in the archive"
+Processing row 321
+[INFO: 2026-05-31 06:49:47: eoutils.S1Processor] Processesing started for S1B_EW_GRDM_1SDH_20200505T214038_20200505T214142_021452_028BB7_7E3D.SAFE.zip
+[INFO: 2026-05-31 06:49:47: eoutils.S1Processor] Processing band 1/2: HH
+[INFO: 2026-05-31 06:49:49: eoutils.S1Processor] Calibration and thermal noise removal...
+[INFO: 2026-05-31 06:49:53: eoutils.S1Processor] Converting to dB...
+[INFO: 2026-05-31 06:49:54: eoutils.S1Processor] Processing band 2/2: HV
+[INFO: 2026-05-31 06:49:55: eoutils.S1Processor] Calibration and thermal noise removal...
+[INFO: 2026-05-31 06:50:00: eoutils.S1Processor] Converting to dB...
+[INFO: 2026-05-31 06:50:01: eoutils.S1Processor] Processing finished in 13.93s.
+[INFO: 2026-05-31 06:50:04: eoutils.S1Processor] Processesing started for S1A_EW_GRDM_1SDH_20200506T102036_20200506T102100_032443_03C1D0_2B50.SAFE.zip
+[INFO: 2026-05-31 06:50:04: eoutils.S1Processor] Processing band 1/2: HH
+[INFO: 2026-05-31 06:50:05: eoutils.S1Processor] Calibration and thermal noise removal...
+[INFO: 2026-05-31 06:50:06: eoutils.S1Processor] Converting to dB...
+[INFO: 2026-05-31 06:50:07: eoutils.S1Processor] Processing band 2/2: HV
+[INFO: 2026-05-31 06:50:07: eoutils.S1Processor] Calibration and thermal noise removal...
+[INFO: 2026-05-31 06:50:09: eoutils.S1Processor] Converting to dB...
+[INFO: 2026-05-31 06:50:09: eoutils.S1Processor] Processing finished in 4.89s.
+100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 6/6 [00:02<00:00,  2.52it/s]
+Processing row 322
+[INFO: 2026-05-31 06:52:01: eoutils.S1Processor] Processesing started for S1B_EW_GRDM_1SDH_20200515T103910_20200515T104014_021591_028FD2_2E6E.SAFE.zip
+[INFO: 2026-05-31 06:52:01: eoutils.S1Processor] Processing band 1/2: HH
+[INFO: 2026-05-31 06:52:02: eoutils.S1Processor] Calibration and thermal noise removal...
+[INFO: 2026-05-31 06:52:07: eoutils.S1Processor] Converting to dB...
+[INFO: 2026-05-31 06:52:07: eoutils.S1Processor] Processing band 2/2: HV
+[INFO: 2026-05-31 06:52:09: eoutils.S1Processor] Calibration and thermal noise removal...
+[INFO: 2026-05-31 06:52:13: eoutils.S1Processor] Converting to dB...
+[INFO: 2026-05-31 06:52:14: eoutils.S1Processor] Processing finished in 13.39s.
+[INFO: 2026-05-31 06:52:20: eoutils.S1Processor] Processesing started for S1A_EW_GRDM_1SDH_20200514T104800_20200514T104904_032560_03C568_06DB.SAFE.zip
+[INFO: 2026-05-31 06:52:20: eoutils.S1Processor] Processing band 1/2: HH
+[INFO: 2026-05-31 06:52:21: eoutils.S1Processor] Calibration and thermal noise removal...
+[INFO: 2026-05-31 06:52:25: eoutils.S1Processor] Converting to dB...
+[INFO: 2026-05-31 06:52:26: eoutils.S1Processor] Processing band 2/2: HV
+[INFO: 2026-05-31 06:52:28: eoutils.S1Processor] Calibration and thermal noise removal...
+[INFO: 2026-05-31 06:52:32: eoutils.S1Processor] Converting to dB...
+[INFO: 2026-05-31 06:52:33: eoutils.S1Processor] Processing finished in 13.02s.
+100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 10/10 [00:03<00:00,  2.55it/s]
+Processing row 323
+[INFO: 2026-05-31 06:55:27: eoutils.S1Processor] Processesing started for S1B_EW_GRDM_1SDH_20200513T203953_20200513T204053_021568_028F2A_3C02.SAFE.zip
+[INFO: 2026-05-31 06:55:27: eoutils.S1Processor] Processing band 1/2: HH
+[INFO: 2026-05-31 06:55:29: eoutils.S1Processor] Calibration and thermal noise removal...
+[INFO: 2026-05-31 06:55:33: eoutils.S1Processor] Converting to dB...
+[INFO: 2026-05-31 06:55:33: eoutils.S1Processor] Processing band 2/2: HV
+[INFO: 2026-05-31 06:55:35: eoutils.S1Processor] Calibration and thermal noise removal...
+[INFO: 2026-05-31 06:55:39: eoutils.S1Processor] Converting to dB...
+[INFO: 2026-05-31 06:55:40: eoutils.S1Processor] Processing finished in 12.97s.
+[INFO: 2026-05-31 06:55:46: eoutils.S1Processor] Processesing started for S1A_EW_GRDM_1SDH_20200514T104800_20200514T104904_032560_03C568_06DB.SAFE.zip
+[INFO: 2026-05-31 06:55:46: eoutils.S1Processor] Processing band 1/2: HH
+[INFO: 2026-05-31 06:55:47: eoutils.S1Processor] Calibration and thermal noise removal...
+[INFO: 2026-05-31 06:55:54: eoutils.S1Processor] Converting to dB...
+[INFO: 2026-05-31 06:55:55: eoutils.S1Processor] Processing band 2/2: HV
+[INFO: 2026-05-31 06:55:56: eoutils.S1Processor] Calibration and thermal noise removal...
+[INFO: 2026-05-31 06:56:02: eoutils.S1Processor] Converting to dB...
+[INFO: 2026-05-31 06:56:04: eoutils.S1Processor] Processing finished in 18.07s.
+100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 6/6 [00:02<00:00,  2.22it/s]
+Processing row 324
+[INFO: 2026-05-31 06:58:52: eoutils.S1Processor] Processesing started for S1B_EW_GRDM_1SDH_20200515T202224_20200515T202324_021597_028FFE_7B08.SAFE.zip
+[INFO: 2026-05-31 06:58:52: eoutils.S1Processor] Processing band 1/2: HH
+[INFO: 2026-05-31 06:58:54: eoutils.S1Processor] Calibration and thermal noise removal...
+[INFO: 2026-05-31 06:58:58: eoutils.S1Processor] Converting to dB...
+[INFO: 2026-05-31 06:58:58: eoutils.S1Processor] Processing band 2/2: HV
+[INFO: 2026-05-31 06:59:00: eoutils.S1Processor] Calibration and thermal noise removal...
+[INFO: 2026-05-31 06:59:04: eoutils.S1Processor] Converting to dB...
+[INFO: 2026-05-31 06:59:05: eoutils.S1Processor] Processing finished in 12.56s.
+[INFO: 2026-05-31 06:59:10: eoutils.S1Processor] Processesing started for S1B_EW_GRDM_1SDH_20200515T104014_20200515T104114_021591_028FD2_F4FA.SAFE.zip
+[INFO: 2026-05-31 06:59:10: eoutils.S1Processor] Processing band 1/2: HH
+[INFO: 2026-05-31 06:59:12: eoutils.S1Processor] Calibration and thermal noise removal...
+[INFO: 2026-05-31 06:59:16: eoutils.S1Processor] Converting to dB...
+[INFO: 2026-05-31 06:59:16: eoutils.S1Processor] Processing band 2/2: HV
+[INFO: 2026-05-31 06:59:18: eoutils.S1Processor] Calibration and thermal noise removal...
+[INFO: 2026-05-31 06:59:21: eoutils.S1Processor] Converting to dB...
+[INFO: 2026-05-31 06:59:23: eoutils.S1Processor] Processing finished in 12.28s.
+100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 5/5 [00:02<00:00,  2.48it/s]
+Processing row 325
+Error processing row 325
+"There is no item named 'RCM2_OK1069811_PK1102784_1_SCLNA_20200515_214428_HH_HV_GRD.SAFE/manifest.safe' in the archive"
+Processing row 326
+Error processing row 326
+"There is no item named 'RCM3_OK1069403_PK1106490_1_SCLNA_20200518_103651_HH_HV_GRD.SAFE/manifest.safe' in the archive"
+Processing row 327
+[INFO: 2026-05-31 07:02:01: eoutils.S1Processor] Processesing started for S1B_EW_GRDM_1SDH_20200523T205519_20200523T205619_021714_029371_140E.SAFE.zip
+[INFO: 2026-05-31 07:02:01: eoutils.S1Processor] Processing band 1/2: HH
+[INFO: 2026-05-31 07:02:03: eoutils.S1Processor] Calibration and thermal noise removal...
+[INFO: 2026-05-31 07:02:07: eoutils.S1Processor] Converting to dB...
+[INFO: 2026-05-31 07:02:08: eoutils.S1Processor] Processing band 2/2: HV
+[INFO: 2026-05-31 07:02:09: eoutils.S1Processor] Calibration and thermal noise removal...
+[INFO: 2026-05-31 07:02:13: eoutils.S1Processor] Converting to dB...
+[INFO: 2026-05-31 07:02:14: eoutils.S1Processor] Processing finished in 13.16s.
+[INFO: 2026-05-31 07:02:20: eoutils.S1Processor] Processesing started for S1A_EW_GRDM_1SDH_20200523T102430_20200523T102534_032691_03C95E_0C78.SAFE.zip
+[INFO: 2026-05-31 07:02:20: eoutils.S1Processor] Processing band 1/2: HH
+[INFO: 2026-05-31 07:02:22: eoutils.S1Processor] Calibration and thermal noise removal...
+[INFO: 2026-05-31 07:02:26: eoutils.S1Processor] Converting to dB...
+[INFO: 2026-05-31 07:02:26: eoutils.S1Processor] Processing band 2/2: HV
+[INFO: 2026-05-31 07:02:28: eoutils.S1Processor] Calibration and thermal noise removal...
+[INFO: 2026-05-31 07:02:32: eoutils.S1Processor] Converting to dB...
+[INFO: 2026-05-31 07:02:33: eoutils.S1Processor] Processing finished in 12.52s.
+100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 7/7 [00:03<00:00,  2.33it/s]
+Processing row 328
+[INFO: 2026-05-31 07:05:24: eoutils.S1Processor] Processesing started for S1A_EW_GRDM_1SDH_20200523T102430_20200523T102534_032691_03C95E_0C78.SAFE.zip
+[INFO: 2026-05-31 07:05:24: eoutils.S1Processor] Processing band 1/2: HH
+[INFO: 2026-05-31 07:05:27: eoutils.S1Processor] Calibration and thermal noise removal...
+[INFO: 2026-05-31 07:05:31: eoutils.S1Processor] Converting to dB...
+[INFO: 2026-05-31 07:05:31: eoutils.S1Processor] Processing band 2/2: HV
+[INFO: 2026-05-31 07:05:34: eoutils.S1Processor] Calibration and thermal noise removal...
+[INFO: 2026-05-31 07:05:38: eoutils.S1Processor] Converting to dB...
+[INFO: 2026-05-31 07:05:39: eoutils.S1Processor] Processing finished in 15.17s.
+[INFO: 2026-05-31 07:05:45: eoutils.S1Processor] Processesing started for S1B_EW_GRDM_1SDH_20200523T205519_20200523T205619_021714_029371_140E.SAFE.zip
+[INFO: 2026-05-31 07:05:45: eoutils.S1Processor] Processing band 1/2: HH
+[INFO: 2026-05-31 07:05:48: eoutils.S1Processor] Calibration and thermal noise removal...
+[INFO: 2026-05-31 07:05:52: eoutils.S1Processor] Converting to dB...
+[INFO: 2026-05-31 07:05:53: eoutils.S1Processor] Processing band 2/2: HV
+[INFO: 2026-05-31 07:05:55: eoutils.S1Processor] Calibration and thermal noise removal...
+[INFO: 2026-05-31 07:05:59: eoutils.S1Processor] Converting to dB...
+[INFO: 2026-05-31 07:06:00: eoutils.S1Processor] Processing finished in 15.25s.
+100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 1/1 [00:00<00:00,  2.79it/s]
+Processing row 329
+[INFO: 2026-05-31 07:08:48: eoutils.S1Processor] Processesing started for S1B_EW_GRDM_1SDH_20200527T122132_20200527T122232_021767_029507_8AC1.SAFE.zip
+[INFO: 2026-05-31 07:08:48: eoutils.S1Processor] Processing band 1/2: HH
+[INFO: 2026-05-31 07:08:50: eoutils.S1Processor] Calibration and thermal noise removal...
+[INFO: 2026-05-31 07:08:54: eoutils.S1Processor] Converting to dB...
+[INFO: 2026-05-31 07:08:55: eoutils.S1Processor] Processing band 2/2: HV
+[INFO: 2026-05-31 07:08:57: eoutils.S1Processor] Calibration and thermal noise removal...
+[INFO: 2026-05-31 07:09:01: eoutils.S1Processor] Converting to dB...
+[INFO: 2026-05-31 07:09:02: eoutils.S1Processor] Processing finished in 13.87s.
+[INFO: 2026-05-31 07:09:08: eoutils.S1Processor] Processesing started for S1A_EW_GRDM_1SDH_20200526T123021_20200526T123121_032736_03CAC4_437E.SAFE.zip
+[INFO: 2026-05-31 07:09:08: eoutils.S1Processor] Processing band 1/2: HH
+[INFO: 2026-05-31 07:09:09: eoutils.S1Processor] Calibration and thermal noise removal...
+[INFO: 2026-05-31 07:09:13: eoutils.S1Processor] Converting to dB...
+[INFO: 2026-05-31 07:09:14: eoutils.S1Processor] Processing band 2/2: HV
+[INFO: 2026-05-31 07:09:16: eoutils.S1Processor] Calibration and thermal noise removal...
+[INFO: 2026-05-31 07:09:20: eoutils.S1Processor] Converting to dB...
+[INFO: 2026-05-31 07:09:21: eoutils.S1Processor] Processing finished in 13.69s.
+100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 6/6 [00:02<00:00,  2.62it/s]
+Processing row 330
+[INFO: 2026-05-31 07:11:53: eoutils.S1Processor] Processesing started for S1B_EW_GRDM_1SDH_20200525T123757_20200525T123857_021738_029424_E1EE.SAFE.zip
+[INFO: 2026-05-31 07:11:53: eoutils.S1Processor] Processing band 1/2: HH
+[INFO: 2026-05-31 07:11:54: eoutils.S1Processor] Calibration and thermal noise removal...
+[INFO: 2026-05-31 07:11:58: eoutils.S1Processor] Converting to dB...
+[INFO: 2026-05-31 07:11:59: eoutils.S1Processor] Processing band 2/2: HV
+[INFO: 2026-05-31 07:12:00: eoutils.S1Processor] Calibration and thermal noise removal...
+[INFO: 2026-05-31 07:12:04: eoutils.S1Processor] Converting to dB...
+[INFO: 2026-05-31 07:12:06: eoutils.S1Processor] Processing finished in 13.12s.
+[INFO: 2026-05-31 07:12:11: eoutils.S1Processor] Processesing started for S1A_EW_GRDM_1SDH_20200526T123021_20200526T123121_032736_03CAC4_437E.SAFE.zip
+[INFO: 2026-05-31 07:12:11: eoutils.S1Processor] Processing band 1/2: HH
+[INFO: 2026-05-31 07:12:11: eoutils.S1Processor] Calibration and thermal noise removal...
+[INFO: 2026-05-31 07:12:15: eoutils.S1Processor] Converting to dB...
+[INFO: 2026-05-31 07:12:16: eoutils.S1Processor] Processing band 2/2: HV
+[INFO: 2026-05-31 07:12:17: eoutils.S1Processor] Calibration and thermal noise removal...
+[INFO: 2026-05-31 07:12:21: eoutils.S1Processor] Converting to dB...
+[INFO: 2026-05-31 07:12:22: eoutils.S1Processor] Processing finished in 11.06s.
+100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 14/14 [00:05<00:00,  2.44it/s]
+Processing row 331
+[INFO: 2026-05-31 07:15:00: eoutils.S1Processor] Processesing started for S1B_EW_GRDM_1SDH_20200527T202225_20200527T202325_021772_02952B_2154.SAFE.zip
+[INFO: 2026-05-31 07:15:00: eoutils.S1Processor] Processing band 1/2: HH
+[INFO: 2026-05-31 07:15:01: eoutils.S1Processor] Calibration and thermal noise removal...
+[INFO: 2026-05-31 07:15:05: eoutils.S1Processor] Converting to dB...
+[INFO: 2026-05-31 07:15:06: eoutils.S1Processor] Processing band 2/2: HV
+[INFO: 2026-05-31 07:15:07: eoutils.S1Processor] Calibration and thermal noise removal...
+[INFO: 2026-05-31 07:15:11: eoutils.S1Processor] Converting to dB...
+[INFO: 2026-05-31 07:15:12: eoutils.S1Processor] Processing finished in 12.85s.
+[INFO: 2026-05-31 07:15:18: eoutils.S1Processor] Processesing started for S1B_EW_GRDM_1SDH_20200527T103910_20200527T104015_021766_0294FE_4282.SAFE.zip
+[INFO: 2026-05-31 07:15:18: eoutils.S1Processor] Processing band 1/2: HH
+[INFO: 2026-05-31 07:15:20: eoutils.S1Processor] Calibration and thermal noise removal...
+[INFO: 2026-05-31 07:15:24: eoutils.S1Processor] Converting to dB...
+[INFO: 2026-05-31 07:15:25: eoutils.S1Processor] Processing band 2/2: HV
+[INFO: 2026-05-31 07:15:27: eoutils.S1Processor] Calibration and thermal noise removal...
+[INFO: 2026-05-31 07:15:31: eoutils.S1Processor] Converting to dB...
+[INFO: 2026-05-31 07:15:32: eoutils.S1Processor] Processing finished in 13.91s.
+0it [00:00, ?it/s]
+Processing row 332
+[INFO: 2026-05-31 07:18:10: eoutils.S1Processor] Processesing started for S1A_EW_GRDM_1SDH_20200526T104801_20200526T104905_032735_03CAB7_BC04.SAFE.zip
+[INFO: 2026-05-31 07:18:10: eoutils.S1Processor] Processing band 1/2: HH
+[INFO: 2026-05-31 07:18:12: eoutils.S1Processor] Calibration and thermal noise removal...
+[INFO: 2026-05-31 07:18:16: eoutils.S1Processor] Converting to dB...
+[INFO: 2026-05-31 07:18:16: eoutils.S1Processor] Processing band 2/2: HV
+[INFO: 2026-05-31 07:18:18: eoutils.S1Processor] Calibration and thermal noise removal...
+[INFO: 2026-05-31 07:18:22: eoutils.S1Processor] Converting to dB...
+[INFO: 2026-05-31 07:18:24: eoutils.S1Processor] Processing finished in 13.37s.
+[INFO: 2026-05-31 07:18:29: eoutils.S1Processor] Processesing started for S1B_EW_GRDM_1SDH_20200527T103910_20200527T104015_021766_0294FE_4282.SAFE.zip
+[INFO: 2026-05-31 07:18:29: eoutils.S1Processor] Processing band 1/2: HH
+[INFO: 2026-05-31 07:18:30: eoutils.S1Processor] Calibration and thermal noise removal...
+[INFO: 2026-05-31 07:18:34: eoutils.S1Processor] Converting to dB...
+[INFO: 2026-05-31 07:18:35: eoutils.S1Processor] Processing band 2/2: HV
+[INFO: 2026-05-31 07:18:35: eoutils.S1Processor] Calibration and thermal noise removal...
+[INFO: 2026-05-31 07:18:39: eoutils.S1Processor] Converting to dB...
+[INFO: 2026-05-31 07:18:41: eoutils.S1Processor] Processing finished in 11.52s.
+100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 7/7 [00:02<00:00,  2.44it/s]
+Processing row 333
+[INFO: 2026-05-31 07:21:28: eoutils.S1Processor] Processesing started for S1A_EW_GRDM_1SDH_20200531T123843_20200531T123943_032809_03CCE3_BDBF.SAFE.zip
+[INFO: 2026-05-31 07:21:28: eoutils.S1Processor] Processing band 1/2: HH
+[INFO: 2026-05-31 07:21:30: eoutils.S1Processor] Calibration and thermal noise removal...
+[INFO: 2026-05-31 07:21:34: eoutils.S1Processor] Converting to dB...
+[INFO: 2026-05-31 07:21:35: eoutils.S1Processor] Processing band 2/2: HV
+[INFO: 2026-05-31 07:21:36: eoutils.S1Processor] Calibration and thermal noise removal...
+[INFO: 2026-05-31 07:21:40: eoutils.S1Processor] Converting to dB...
+[INFO: 2026-05-31 07:21:42: eoutils.S1Processor] Processing finished in 13.34s.
+[INFO: 2026-05-31 07:21:47: eoutils.S1Processor] Processesing started for S1B_EW_GRDM_1SDH_20200601T122943_20200601T123043_021840_02973F_8AB3.SAFE.zip
+[INFO: 2026-05-31 07:21:47: eoutils.S1Processor] Processing band 1/2: HH
+[INFO: 2026-05-31 07:21:49: eoutils.S1Processor] Calibration and thermal noise removal...
+[INFO: 2026-05-31 07:21:53: eoutils.S1Processor] Converting to dB...
+[INFO: 2026-05-31 07:21:54: eoutils.S1Processor] Processing band 2/2: HV
+[INFO: 2026-05-31 07:21:56: eoutils.S1Processor] Calibration and thermal noise removal...
+[INFO: 2026-05-31 07:22:00: eoutils.S1Processor] Converting to dB...
+[INFO: 2026-05-31 07:22:01: eoutils.S1Processor] Processing finished in 13.87s.
+100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 16/16 [00:06<00:00,  2.33it/s]
+Processing row 334
+[INFO: 2026-05-31 07:24:38: eoutils.S1Processor] Processesing started for S1A_EW_GRDM_1SDH_20200601T113948_20200601T114052_032823_03CD4E_567A.SAFE.zip
+[INFO: 2026-05-31 07:24:38: eoutils.S1Processor] Processing band 1/2: HH
+[INFO: 2026-05-31 07:24:40: eoutils.S1Processor] Calibration and thermal noise removal...
+[INFO: 2026-05-31 07:24:44: eoutils.S1Processor] Converting to dB...
+[INFO: 2026-05-31 07:24:45: eoutils.S1Processor] Processing band 2/2: HV
+[INFO: 2026-05-31 07:24:46: eoutils.S1Processor] Calibration and thermal noise removal...
+[INFO: 2026-05-31 07:24:51: eoutils.S1Processor] Converting to dB...
+[INFO: 2026-05-31 07:24:52: eoutils.S1Processor] Processing finished in 14.17s.
+[INFO: 2026-05-31 07:24:58: eoutils.S1Processor] Processesing started for S1B_EW_GRDM_1SDH_20200602T113123_20200602T113223_021854_0297B1_2BD4.SAFE.zip
+[INFO: 2026-05-31 07:24:58: eoutils.S1Processor] Processing band 1/2: HH
+[INFO: 2026-05-31 07:25:00: eoutils.S1Processor] Calibration and thermal noise removal...
+[INFO: 2026-05-31 07:25:03: eoutils.S1Processor] Converting to dB...
+[INFO: 2026-05-31 07:25:04: eoutils.S1Processor] Processing band 2/2: HV
+[INFO: 2026-05-31 07:25:06: eoutils.S1Processor] Calibration and thermal noise removal...
+[INFO: 2026-05-31 07:25:10: eoutils.S1Processor] Converting to dB...
+[INFO: 2026-05-31 07:25:11: eoutils.S1Processor] Processing finished in 13.39s.
+100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 7/7 [00:03<00:00,  2.27it/s]
+Processing row 335
+[INFO: 2026-05-31 07:28:01: eoutils.S1Processor] Processesing started for S1A_EW_GRDM_1SDH_20200602T103953_20200602T104057_032837_03CDAF_8C51.SAFE.zip
+[INFO: 2026-05-31 07:28:01: eoutils.S1Processor] Processing band 1/2: HH
+[INFO: 2026-05-31 07:28:03: eoutils.S1Processor] Calibration and thermal noise removal...
+[INFO: 2026-05-31 07:28:07: eoutils.S1Processor] Converting to dB...
+[INFO: 2026-05-31 07:28:08: eoutils.S1Processor] Processing band 2/2: HV
+[INFO: 2026-05-31 07:28:09: eoutils.S1Processor] Calibration and thermal noise removal...
+[INFO: 2026-05-31 07:28:14: eoutils.S1Processor] Converting to dB...
+[INFO: 2026-05-31 07:28:15: eoutils.S1Processor] Processing finished in 14.24s.
+[INFO: 2026-05-31 07:28:18: eoutils.S1Processor] Processesing started for S1B_EW_GRDM_1SDH_20200602T211220_20200602T211239_021860_0297DB_5E4A.SAFE.zip
+[INFO: 2026-05-31 07:28:18: eoutils.S1Processor] Processing band 1/2: HH
+[INFO: 2026-05-31 07:28:18: eoutils.S1Processor] Calibration and thermal noise removal...
+[INFO: 2026-05-31 07:28:20: eoutils.S1Processor] Converting to dB...
+[INFO: 2026-05-31 07:28:20: eoutils.S1Processor] Processing band 2/2: HV
+[INFO: 2026-05-31 07:28:20: eoutils.S1Processor] Calibration and thermal noise removal...
+[INFO: 2026-05-31 07:28:21: eoutils.S1Processor] Converting to dB...
+[INFO: 2026-05-31 07:28:22: eoutils.S1Processor] Processing finished in 4.08s.
+0it [00:00, ?it/s]
+Processing row 336
+[INFO: 2026-05-31 07:30:08: eoutils.S1Processor] Processesing started for S1B_EW_GRDM_1SDH_20200609T080301_20200609T080401_021954_029A9E_EFC2.SAFE.zip
+[INFO: 2026-05-31 07:30:08: eoutils.S1Processor] Processing band 1/2: HH
+[INFO: 2026-05-31 07:30:09: eoutils.S1Processor] Calibration and thermal noise removal...
+[INFO: 2026-05-31 07:30:13: eoutils.S1Processor] Converting to dB...
+[INFO: 2026-05-31 07:30:14: eoutils.S1Processor] Processing band 2/2: HV
+[INFO: 2026-05-31 07:30:15: eoutils.S1Processor] Calibration and thermal noise removal...
+[INFO: 2026-05-31 07:30:19: eoutils.S1Processor] Converting to dB...
+[INFO: 2026-05-31 07:30:20: eoutils.S1Processor] Processing finished in 12.74s.
+[INFO: 2026-05-31 07:30:26: eoutils.S1Processor] Processesing started for S1B_EW_GRDM_1SDH_20200608T184339_20200608T184439_021946_029A63_6833.SAFE.zip
+[INFO: 2026-05-31 07:30:26: eoutils.S1Processor] Processing band 1/2: HH
+[INFO: 2026-05-31 07:30:27: eoutils.S1Processor] Calibration and thermal noise removal...
+[INFO: 2026-05-31 07:30:30: eoutils.S1Processor] Converting to dB...
+[INFO: 2026-05-31 07:30:31: eoutils.S1Processor] Processing band 2/2: HV
+[INFO: 2026-05-31 07:30:33: eoutils.S1Processor] Calibration and thermal noise removal...
+[INFO: 2026-05-31 07:30:36: eoutils.S1Processor] Converting to dB...
+[INFO: 2026-05-31 07:30:37: eoutils.S1Processor] Processing finished in 11.46s.
+100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 10/10 [00:04<00:00,  2.24it/s]
+Processing row 337
+[INFO: 2026-05-31 07:33:11: eoutils.S1Processor] Processesing started for S1A_EW_GRDM_1SDH_20200608T081214_20200608T081314_032923_03D04D_4E0A.SAFE.zip
+[INFO: 2026-05-31 07:33:11: eoutils.S1Processor] Processing band 1/2: HH
+[INFO: 2026-05-31 07:33:12: eoutils.S1Processor] Calibration and thermal noise removal...
+[INFO: 2026-05-31 07:33:16: eoutils.S1Processor] Converting to dB...
+[INFO: 2026-05-31 07:33:17: eoutils.S1Processor] Processing band 2/2: HV
+[INFO: 2026-05-31 07:33:19: eoutils.S1Processor] Calibration and thermal noise removal...
+[INFO: 2026-05-31 07:33:23: eoutils.S1Processor] Converting to dB...
+[INFO: 2026-05-31 07:33:24: eoutils.S1Processor] Processing finished in 13.56s.
+[INFO: 2026-05-31 07:33:29: eoutils.S1Processor] Processesing started for S1B_EW_GRDM_1SDH_20200608T184339_20200608T184439_021946_029A63_6833.SAFE.zip
+[INFO: 2026-05-31 07:33:29: eoutils.S1Processor] Processing band 1/2: HH
+[INFO: 2026-05-31 07:33:30: eoutils.S1Processor] Calibration and thermal noise removal...
+[INFO: 2026-05-31 07:33:33: eoutils.S1Processor] Converting to dB...
+[INFO: 2026-05-31 07:33:34: eoutils.S1Processor] Processing band 2/2: HV
+[INFO: 2026-05-31 07:33:34: eoutils.S1Processor] Calibration and thermal noise removal...
+[INFO: 2026-05-31 07:33:38: eoutils.S1Processor] Converting to dB...
+[INFO: 2026-05-31 07:33:39: eoutils.S1Processor] Processing finished in 9.94s.
+100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 16/16 [00:06<00:00,  2.51it/s]
+Processing row 338
+[INFO: 2026-05-31 07:36:14: eoutils.S1Processor] Processesing started for S1A_EW_GRDM_1SDH_20200611T102038_20200611T102102_032968_03D19A_9557.SAFE.zip
+[INFO: 2026-05-31 07:36:14: eoutils.S1Processor] Processing band 1/2: HH
+[INFO: 2026-05-31 07:36:15: eoutils.S1Processor] Calibration and thermal noise removal...
+[INFO: 2026-05-31 07:36:17: eoutils.S1Processor] Converting to dB...
+[INFO: 2026-05-31 07:36:17: eoutils.S1Processor] Processing band 2/2: HV
+[INFO: 2026-05-31 07:36:18: eoutils.S1Processor] Calibration and thermal noise removal...
+[INFO: 2026-05-31 07:36:19: eoutils.S1Processor] Converting to dB...
+[INFO: 2026-05-31 07:36:20: eoutils.S1Processor] Processing finished in 5.25s.
+[INFO: 2026-05-31 07:36:25: eoutils.S1Processor] Processesing started for S1B_EW_GRDM_1SDH_20200610T214040_20200610T214145_021977_029B62_C439.SAFE.zip
+[INFO: 2026-05-31 07:36:25: eoutils.S1Processor] Processing band 1/2: HH
+[INFO: 2026-05-31 07:36:27: eoutils.S1Processor] Calibration and thermal noise removal...
+[INFO: 2026-05-31 07:36:31: eoutils.S1Processor] Converting to dB...
+[INFO: 2026-05-31 07:36:32: eoutils.S1Processor] Processing band 2/2: HV
+[INFO: 2026-05-31 07:36:34: eoutils.S1Processor] Calibration and thermal noise removal...
+[INFO: 2026-05-31 07:36:38: eoutils.S1Processor] Converting to dB...
+[INFO: 2026-05-31 07:36:39: eoutils.S1Processor] Processing finished in 14.48s.
+0it [00:00, ?it/s]
+Processing row 339
+[INFO: 2026-05-31 07:38:31: eoutils.S1Processor] Processesing started for S1A_EW_GRDM_1SDH_20200618T194816_20200618T194916_033076_03D4E5_9C4D.SAFE.zip
+[INFO: 2026-05-31 07:38:31: eoutils.S1Processor] Processing band 1/2: HH
+[INFO: 2026-05-31 07:38:33: eoutils.S1Processor] Calibration and thermal noise removal...
+[INFO: 2026-05-31 07:38:37: eoutils.S1Processor] Converting to dB...
+[INFO: 2026-05-31 07:38:38: eoutils.S1Processor] Processing band 2/2: HV
+[INFO: 2026-05-31 07:38:39: eoutils.S1Processor] Calibration and thermal noise removal...
+[INFO: 2026-05-31 07:38:43: eoutils.S1Processor] Converting to dB...
+[INFO: 2026-05-31 07:38:44: eoutils.S1Processor] Processing finished in 13.09s.
+[INFO: 2026-05-31 07:38:50: eoutils.S1Processor] Processesing started for S1B_EW_GRDM_1SDH_20200617T195545_20200617T195645_022078_029E64_CD6C.SAFE.zip
+[INFO: 2026-05-31 07:38:50: eoutils.S1Processor] Processing band 1/2: HH
+[INFO: 2026-05-31 07:38:52: eoutils.S1Processor] Calibration and thermal noise removal...
+[INFO: 2026-05-31 07:38:55: eoutils.S1Processor] Converting to dB...
+[INFO: 2026-05-31 07:38:56: eoutils.S1Processor] Processing band 2/2: HV
+[INFO: 2026-05-31 07:38:58: eoutils.S1Processor] Calibration and thermal noise removal...
+[INFO: 2026-05-31 07:39:01: eoutils.S1Processor] Converting to dB...
+[INFO: 2026-05-31 07:39:02: eoutils.S1Processor] Processing finished in 12.48s.
+0it [00:00, ?it/s]
+Processing row 340
+[INFO: 2026-05-31 07:41:49: eoutils.S1Processor] Processesing started for S1A_EW_GRDM_1SDH_20200616T200442_20200616T200542_033047_03D3FE_0E27.SAFE.zip
+[INFO: 2026-05-31 07:41:49: eoutils.S1Processor] Processing band 1/2: HH
+[INFO: 2026-05-31 07:41:50: eoutils.S1Processor] Calibration and thermal noise removal...
+[INFO: 2026-05-31 07:41:54: eoutils.S1Processor] Converting to dB...
+[INFO: 2026-05-31 07:41:55: eoutils.S1Processor] Processing band 2/2: HV
+[INFO: 2026-05-31 07:41:57: eoutils.S1Processor] Calibration and thermal noise removal...
+[INFO: 2026-05-31 07:42:00: eoutils.S1Processor] Converting to dB...
+[INFO: 2026-05-31 07:42:02: eoutils.S1Processor] Processing finished in 12.96s.
+[INFO: 2026-05-31 07:42:07: eoutils.S1Processor] Processesing started for S1B_EW_GRDM_1SDH_20200617T195545_20200617T195645_022078_029E64_CD6C.SAFE.zip
+[INFO: 2026-05-31 07:42:07: eoutils.S1Processor] Processing band 1/2: HH
+[INFO: 2026-05-31 07:42:07: eoutils.S1Processor] Calibration and thermal noise removal...
+[INFO: 2026-05-31 07:42:11: eoutils.S1Processor] Converting to dB...
+[INFO: 2026-05-31 07:42:12: eoutils.S1Processor] Processing band 2/2: HV
+[INFO: 2026-05-31 07:42:12: eoutils.S1Processor] Calibration and thermal noise removal...
+[INFO: 2026-05-31 07:42:16: eoutils.S1Processor] Converting to dB...
+[INFO: 2026-05-31 07:42:17: eoutils.S1Processor] Processing finished in 10.56s.
+0it [00:00, ?it/s]
+Processing row 341
+[INFO: 2026-05-31 07:44:59: eoutils.S1Processor] Processesing started for S1B_EW_GRDM_1SDH_20200620T121933_20200620T122033_022117_029F96_2E37.SAFE.zip
+[INFO: 2026-05-31 07:44:59: eoutils.S1Processor] Processing band 1/2: HH
+[INFO: 2026-05-31 07:45:02: eoutils.S1Processor] Calibration and thermal noise removal...
+[INFO: 2026-05-31 07:45:06: eoutils.S1Processor] Converting to dB...
+[INFO: 2026-05-31 07:45:07: eoutils.S1Processor] Processing band 2/2: HV
+[INFO: 2026-05-31 07:45:10: eoutils.S1Processor] Calibration and thermal noise removal...
+[INFO: 2026-05-31 07:45:14: eoutils.S1Processor] Converting to dB...
+[INFO: 2026-05-31 07:45:16: eoutils.S1Processor] Processing finished in 16.77s.
+[INFO: 2026-05-31 07:45:22: eoutils.S1Processor] Processesing started for S1A_EW_GRDM_1SDH_20200619T122818_20200619T122923_033086_03D537_EA36.SAFE.zip
+[INFO: 2026-05-31 07:45:22: eoutils.S1Processor] Processing band 1/2: HH
+[INFO: 2026-05-31 07:45:24: eoutils.S1Processor] Calibration and thermal noise removal...
+[INFO: 2026-05-31 07:45:30: eoutils.S1Processor] Converting to dB...
+[INFO: 2026-05-31 07:45:31: eoutils.S1Processor] Processing band 2/2: HV
+[INFO: 2026-05-31 07:45:33: eoutils.S1Processor] Calibration and thermal noise removal...
+[INFO: 2026-05-31 07:45:38: eoutils.S1Processor] Converting to dB...
+[INFO: 2026-05-31 07:45:41: eoutils.S1Processor] Processing finished in 18.98s.
+100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 7/7 [00:02<00:00,  2.49it/s]
+Processing row 342
+[INFO: 2026-05-31 07:48:30: eoutils.S1Processor] Processesing started for S1B_EW_GRDM_1SDH_20200620T122133_20200620T122233_022117_029F96_11F6.SAFE.zip
+[INFO: 2026-05-31 07:48:30: eoutils.S1Processor] Processing band 1/2: HH
+[INFO: 2026-05-31 07:48:32: eoutils.S1Processor] Calibration and thermal noise removal...
+[INFO: 2026-05-31 07:48:37: eoutils.S1Processor] Converting to dB...
+[INFO: 2026-05-31 07:48:37: eoutils.S1Processor] Processing band 2/2: HV
+[INFO: 2026-05-31 07:48:39: eoutils.S1Processor] Calibration and thermal noise removal...
+[INFO: 2026-05-31 07:48:43: eoutils.S1Processor] Converting to dB...
+[INFO: 2026-05-31 07:48:44: eoutils.S1Processor] Processing finished in 14.15s.
+[INFO: 2026-05-31 07:48:50: eoutils.S1Processor] Processesing started for S1A_EW_GRDM_1SDH_20200619T123023_20200619T123123_033086_03D537_873C.SAFE.zip
+[INFO: 2026-05-31 07:48:50: eoutils.S1Processor] Processing band 1/2: HH
+[INFO: 2026-05-31 07:48:52: eoutils.S1Processor] Calibration and thermal noise removal...
+[INFO: 2026-05-31 07:48:56: eoutils.S1Processor] Converting to dB...
+[INFO: 2026-05-31 07:48:56: eoutils.S1Processor] Processing band 2/2: HV
+[INFO: 2026-05-31 07:48:58: eoutils.S1Processor] Calibration and thermal noise removal...
+[INFO: 2026-05-31 07:49:02: eoutils.S1Processor] Converting to dB...
+[INFO: 2026-05-31 07:49:03: eoutils.S1Processor] Processing finished in 13.49s.
+100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 5/5 [00:02<00:00,  2.41it/s]
+Processing row 343
+[INFO: 2026-05-31 07:51:38: eoutils.S1Processor] Processesing started for S1B_EW_GRDM_1SDH_20200618T123759_20200618T123859_022088_029EB1_EECE.SAFE.zip
+[INFO: 2026-05-31 07:51:38: eoutils.S1Processor] Processing band 1/2: HH
+[INFO: 2026-05-31 07:51:40: eoutils.S1Processor] Calibration and thermal noise removal...
+[INFO: 2026-05-31 07:51:44: eoutils.S1Processor] Converting to dB...
+[INFO: 2026-05-31 07:51:44: eoutils.S1Processor] Processing band 2/2: HV
+[INFO: 2026-05-31 07:51:46: eoutils.S1Processor] Calibration and thermal noise removal...
+[INFO: 2026-05-31 07:51:50: eoutils.S1Processor] Converting to dB...
+[INFO: 2026-05-31 07:51:51: eoutils.S1Processor] Processing finished in 13.29s.
+[INFO: 2026-05-31 07:51:56: eoutils.S1Processor] Processesing started for S1A_EW_GRDM_1SDH_20200619T123023_20200619T123123_033086_03D537_873C.SAFE.zip
+[INFO: 2026-05-31 07:51:56: eoutils.S1Processor] Processing band 1/2: HH
+[INFO: 2026-05-31 07:51:57: eoutils.S1Processor] Calibration and thermal noise removal...
+[INFO: 2026-05-31 07:52:01: eoutils.S1Processor] Converting to dB...
+[INFO: 2026-05-31 07:52:01: eoutils.S1Processor] Processing band 2/2: HV
+[INFO: 2026-05-31 07:52:02: eoutils.S1Processor] Calibration and thermal noise removal...
+[INFO: 2026-05-31 07:52:06: eoutils.S1Processor] Converting to dB...
+[INFO: 2026-05-31 07:52:07: eoutils.S1Processor] Processing finished in 10.75s.
+100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 11/11 [00:04<00:00,  2.42it/s]
+Processing row 344
+[INFO: 2026-05-31 07:54:43: eoutils.S1Processor] Processesing started for S1B_EW_GRDM_1SDH_20200619T211902_20200619T212007_022108_029F48_7BD4.SAFE.zip
+[INFO: 2026-05-31 07:54:43: eoutils.S1Processor] Processing band 1/2: HH
+[INFO: 2026-05-31 07:54:45: eoutils.S1Processor] Calibration and thermal noise removal...
+[INFO: 2026-05-31 07:54:49: eoutils.S1Processor] Converting to dB...
+[INFO: 2026-05-31 07:54:49: eoutils.S1Processor] Processing band 2/2: HV
+[INFO: 2026-05-31 07:54:51: eoutils.S1Processor] Calibration and thermal noise removal...
+[INFO: 2026-05-31 07:54:55: eoutils.S1Processor] Converting to dB...
+[INFO: 2026-05-31 07:54:56: eoutils.S1Processor] Processing finished in 13.25s.
+[INFO: 2026-05-31 07:55:02: eoutils.S1Processor] Processesing started for S1B_EW_GRDM_1SDH_20200620T104116_20200620T104216_022116_029F8D_7B15.SAFE.zip
+[INFO: 2026-05-31 07:55:02: eoutils.S1Processor] Processing band 1/2: HH
+[INFO: 2026-05-31 07:55:03: eoutils.S1Processor] Calibration and thermal noise removal...
+[INFO: 2026-05-31 07:55:07: eoutils.S1Processor] Converting to dB...
+[INFO: 2026-05-31 07:55:08: eoutils.S1Processor] Processing band 2/2: HV
+[INFO: 2026-05-31 07:55:09: eoutils.S1Processor] Calibration and thermal noise removal...
+[INFO: 2026-05-31 07:55:13: eoutils.S1Processor] Converting to dB...
+[INFO: 2026-05-31 07:55:15: eoutils.S1Processor] Processing finished in 12.82s.
+100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 7/7 [00:02<00:00,  2.42it/s]
+Processing row 345
+[INFO: 2026-05-31 07:58:01: eoutils.S1Processor] Processesing started for S1B_EW_GRDM_1SDH_20200625T185226_20200625T185320_022194_02A1F1_78FA.SAFE.zip
+[INFO: 2026-05-31 07:58:01: eoutils.S1Processor] Processing band 1/2: HH
+[INFO: 2026-05-31 07:58:02: eoutils.S1Processor] Calibration and thermal noise removal...
+[INFO: 2026-05-31 07:58:06: eoutils.S1Processor] Converting to dB...
+[INFO: 2026-05-31 07:58:06: eoutils.S1Processor] Processing band 2/2: HV
+[INFO: 2026-05-31 07:58:07: eoutils.S1Processor] Calibration and thermal noise removal...
+[INFO: 2026-05-31 07:58:11: eoutils.S1Processor] Converting to dB...
+[INFO: 2026-05-31 07:58:12: eoutils.S1Processor] Processing finished in 10.85s.
+[INFO: 2026-05-31 07:58:17: eoutils.S1Processor] Processesing started for S1A_EW_GRDM_1SDH_20200625T082005_20200625T082105_033171_03D7BC_EFC9.SAFE.zip
+[INFO: 2026-05-31 07:58:17: eoutils.S1Processor] Processing band 1/2: HH
+[INFO: 2026-05-31 07:58:19: eoutils.S1Processor] Calibration and thermal noise removal...
+[INFO: 2026-05-31 07:58:23: eoutils.S1Processor] Converting to dB...
+[INFO: 2026-05-31 07:58:24: eoutils.S1Processor] Processing band 2/2: HV
+[INFO: 2026-05-31 07:58:25: eoutils.S1Processor] Calibration and thermal noise removal...
+[INFO: 2026-05-31 07:58:29: eoutils.S1Processor] Converting to dB...
+[INFO: 2026-05-31 07:58:30: eoutils.S1Processor] Processing finished in 13.34s.
+100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 6/6 [00:02<00:00,  2.22it/s]
+Processing row 346
+[INFO: 2026-05-31 08:00:55: eoutils.S1Processor] Processesing started for S1A_EW_GRDM_1SDH_20200624T190119_20200624T190213_033163_03D785_5501.SAFE.zip
+[INFO: 2026-05-31 08:00:55: eoutils.S1Processor] Processing band 1/2: HH
+[INFO: 2026-05-31 08:00:56: eoutils.S1Processor] Calibration and thermal noise removal...
+[INFO: 2026-05-31 08:01:00: eoutils.S1Processor] Converting to dB...
+[INFO: 2026-05-31 08:01:00: eoutils.S1Processor] Processing band 2/2: HV
+[INFO: 2026-05-31 08:01:01: eoutils.S1Processor] Calibration and thermal noise removal...
+[INFO: 2026-05-31 08:01:05: eoutils.S1Processor] Converting to dB...
+[INFO: 2026-05-31 08:01:06: eoutils.S1Processor] Processing finished in 11.58s.
+[INFO: 2026-05-31 08:01:11: eoutils.S1Processor] Processesing started for S1A_EW_GRDM_1SDH_20200625T082005_20200625T082105_033171_03D7BC_EFC9.SAFE.zip
+[INFO: 2026-05-31 08:01:11: eoutils.S1Processor] Processing band 1/2: HH
+[INFO: 2026-05-31 08:01:12: eoutils.S1Processor] Calibration and thermal noise removal...
+[INFO: 2026-05-31 08:01:16: eoutils.S1Processor] Converting to dB...
+[INFO: 2026-05-31 08:01:16: eoutils.S1Processor] Processing band 2/2: HV
+[INFO: 2026-05-31 08:01:17: eoutils.S1Processor] Calibration and thermal noise removal...
+[INFO: 2026-05-31 08:01:21: eoutils.S1Processor] Converting to dB...
+[INFO: 2026-05-31 08:01:22: eoutils.S1Processor] Processing finished in 11.28s.
+0it [00:00, ?it/s]
+Processing row 347
+[INFO: 2026-05-31 08:03:42: eoutils.S1Processor] Processesing started for S1B_EW_GRDM_1SDH_20200625T185122_20200625T185226_022194_02A1F1_2C9C.SAFE.zip
+[INFO: 2026-05-31 08:03:42: eoutils.S1Processor] Processing band 1/2: HH
+[INFO: 2026-05-31 08:03:44: eoutils.S1Processor] Calibration and thermal noise removal...
+[INFO: 2026-05-31 08:03:48: eoutils.S1Processor] Converting to dB...
+[INFO: 2026-05-31 08:03:48: eoutils.S1Processor] Processing band 2/2: HV
+[INFO: 2026-05-31 08:03:50: eoutils.S1Processor] Calibration and thermal noise removal...
+[INFO: 2026-05-31 08:03:54: eoutils.S1Processor] Converting to dB...
+[INFO: 2026-05-31 08:03:55: eoutils.S1Processor] Processing finished in 12.40s.
+[INFO: 2026-05-31 08:04:01: eoutils.S1Processor] Processesing started for S1A_EW_GRDM_1SDH_20200625T082105_20200625T082205_033171_03D7BC_EAB0.SAFE.zip
+[INFO: 2026-05-31 08:04:01: eoutils.S1Processor] Processing band 1/2: HH
+[INFO: 2026-05-31 08:04:02: eoutils.S1Processor] Calibration and thermal noise removal...
+[INFO: 2026-05-31 08:04:06: eoutils.S1Processor] Converting to dB...
+[INFO: 2026-05-31 08:04:06: eoutils.S1Processor] Processing band 2/2: HV
+[INFO: 2026-05-31 08:04:09: eoutils.S1Processor] Calibration and thermal noise removal...
+[INFO: 2026-05-31 08:04:13: eoutils.S1Processor] Converting to dB...
+[INFO: 2026-05-31 08:04:14: eoutils.S1Processor] Processing finished in 13.51s.
+100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 4/4 [00:01<00:00,  2.26it/s]
+Processing row 348
+[INFO: 2026-05-31 08:06:59: eoutils.S1Processor] Processesing started for S1A_EW_GRDM_1SDH_20200624T190015_20200624T190119_033163_03D785_9543.SAFE.zip
+[INFO: 2026-05-31 08:06:59: eoutils.S1Processor] Processing band 1/2: HH
+[INFO: 2026-05-31 08:07:01: eoutils.S1Processor] Calibration and thermal noise removal...
+[INFO: 2026-05-31 08:07:07: eoutils.S1Processor] Converting to dB...
+[INFO: 2026-05-31 08:07:07: eoutils.S1Processor] Processing band 2/2: HV
+[INFO: 2026-05-31 08:07:09: eoutils.S1Processor] Calibration and thermal noise removal...
+[INFO: 2026-05-31 08:07:14: eoutils.S1Processor] Converting to dB...
+[INFO: 2026-05-31 08:07:16: eoutils.S1Processor] Processing finished in 16.86s.
+[INFO: 2026-05-31 08:07:22: eoutils.S1Processor] Processesing started for S1A_EW_GRDM_1SDH_20200625T082105_20200625T082205_033171_03D7BC_EAB0.SAFE.zip
+[INFO: 2026-05-31 08:07:22: eoutils.S1Processor] Processing band 1/2: HH
+[INFO: 2026-05-31 08:07:23: eoutils.S1Processor] Calibration and thermal noise removal...
+[INFO: 2026-05-31 08:07:28: eoutils.S1Processor] Converting to dB...
+[INFO: 2026-05-31 08:07:29: eoutils.S1Processor] Processing band 2/2: HV
+[INFO: 2026-05-31 08:07:30: eoutils.S1Processor] Calibration and thermal noise removal...
+[INFO: 2026-05-31 08:07:35: eoutils.S1Processor] Converting to dB...
+[INFO: 2026-05-31 08:07:38: eoutils.S1Processor] Processing finished in 15.55s.
+100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 2/2 [00:00<00:00,  2.73it/s]
+Processing row 349
+Error processing row 349
+"There is no item named 'RCM2_OK1101944_PK1149467_1_SCLNC_20200626_000045_HH_HV_GRD.SAFE/manifest.safe' in the archive"
+Processing row 350
+Error processing row 350
+"There is no item named 'RCM2_OK1085988_PK1148403_1_SCLNB_20200624_235245_HH_HV_GRD.SAFE/manifest.safe' in the archive"
+Processing row 351
+[INFO: 2026-05-31 08:10:22: eoutils.S1Processor] Processesing started for S1A_EW_GRDM_1SDH_20200630T181155_20200630T181255_033250_03DA31_0710.SAFE.zip
+[INFO: 2026-05-31 08:10:22: eoutils.S1Processor] Processing band 1/2: HH
+[INFO: 2026-05-31 08:10:24: eoutils.S1Processor] Calibration and thermal noise removal...
+[INFO: 2026-05-31 08:10:28: eoutils.S1Processor] Converting to dB...
+[INFO: 2026-05-31 08:10:28: eoutils.S1Processor] Processing band 2/2: HV
+[INFO: 2026-05-31 08:10:30: eoutils.S1Processor] Calibration and thermal noise removal...
+[INFO: 2026-05-31 08:10:34: eoutils.S1Processor] Converting to dB...
+[INFO: 2026-05-31 08:10:35: eoutils.S1Processor] Processing finished in 13.08s.
+[INFO: 2026-05-31 08:10:41: eoutils.S1Processor] Processesing started for S1A_EW_GRDM_1SDH_20200630T082817_20200630T082917_033244_03DA06_C0D0.SAFE.zip
+[INFO: 2026-05-31 08:10:41: eoutils.S1Processor] Processing band 1/2: HH
+[INFO: 2026-05-31 08:10:43: eoutils.S1Processor] Calibration and thermal noise removal...
+[INFO: 2026-05-31 08:10:47: eoutils.S1Processor] Converting to dB...
+[INFO: 2026-05-31 08:10:47: eoutils.S1Processor] Processing band 2/2: HV
+[INFO: 2026-05-31 08:10:49: eoutils.S1Processor] Calibration and thermal noise removal...
+[INFO: 2026-05-31 08:10:53: eoutils.S1Processor] Converting to dB...
+[INFO: 2026-05-31 08:10:54: eoutils.S1Processor] Processing finished in 13.14s.
+100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 8/8 [00:03<00:00,  2.49it/s]
+Processing row 352
+[INFO: 2026-05-31 08:13:29: eoutils.S1Processor] Processesing started for S1B_EW_GRDM_1SDH_20200629T182009_20200629T182109_022252_02A3B8_A907.SAFE.zip
+[INFO: 2026-05-31 08:13:29: eoutils.S1Processor] Processing band 1/2: HH
+[INFO: 2026-05-31 08:13:31: eoutils.S1Processor] Calibration and thermal noise removal...
+[INFO: 2026-05-31 08:13:34: eoutils.S1Processor] Converting to dB...
+[INFO: 2026-05-31 08:13:35: eoutils.S1Processor] Processing band 2/2: HV
+[INFO: 2026-05-31 08:13:37: eoutils.S1Processor] Calibration and thermal noise removal...
+[INFO: 2026-05-31 08:13:41: eoutils.S1Processor] Converting to dB...
+[INFO: 2026-05-31 08:13:42: eoutils.S1Processor] Processing finished in 13.10s.
+[INFO: 2026-05-31 08:13:47: eoutils.S1Processor] Processesing started for S1A_EW_GRDM_1SDH_20200630T082817_20200630T082917_033244_03DA06_C0D0.SAFE.zip
+[INFO: 2026-05-31 08:13:47: eoutils.S1Processor] Processing band 1/2: HH
+[INFO: 2026-05-31 08:13:48: eoutils.S1Processor] Calibration and thermal noise removal...
+[INFO: 2026-05-31 08:13:52: eoutils.S1Processor] Converting to dB...
+[INFO: 2026-05-31 08:13:52: eoutils.S1Processor] Processing band 2/2: HV
+[INFO: 2026-05-31 08:13:53: eoutils.S1Processor] Calibration and thermal noise removal...
+[INFO: 2026-05-31 08:13:57: eoutils.S1Processor] Converting to dB...
+[INFO: 2026-05-31 08:13:58: eoutils.S1Processor] Processing finished in 10.62s.
+100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 2/2 [00:00<00:00,  3.06it/s]
+Processing row 353
+Error processing row 353
+"There is no item named 'RCM3_OK1085988_PK1154074_1_SCLNB_20200701_000812_HH_HV_GRD.SAFE/manifest.safe' in the archive"
+Processing row 354
+Error processing row 354
+"There is no item named 'RCM1_OK1085988_PK1153488_1_SCLNB_20200630_123558_HH_HV_GRD.SAFE/manifest.safe' in the archive"
+Processing row 355
+Error processing row 355
+"There is no item named 'RCM3_OK1085988_PK1154074_1_SCLNB_20200701_000812_HH_HV_GRD.SAFE/manifest.safe' in the archive"
+Processing row 356
+Error processing row 356
+"There is no item named 'RCM1_OK1085988_PK1153488_1_SCLNB_20200630_123558_HH_HV_GRD.SAFE/manifest.safe' in the archive"
+Processing row 357
+[INFO: 2026-05-31 08:16:35: eoutils.S1Processor] Processesing started for S1A_EW_GRDM_1SDH_20200702T081216_20200702T081316_033273_03DAE6_46F1.SAFE.zip
+[INFO: 2026-05-31 08:16:35: eoutils.S1Processor] Processing band 1/2: HH
+[INFO: 2026-05-31 08:16:37: eoutils.S1Processor] Calibration and thermal noise removal...
+[INFO: 2026-05-31 08:16:42: eoutils.S1Processor] Converting to dB...
+[INFO: 2026-05-31 08:16:42: eoutils.S1Processor] Processing band 2/2: HV
+[INFO: 2026-05-31 08:16:44: eoutils.S1Processor] Calibration and thermal noise removal...
+[INFO: 2026-05-31 08:16:49: eoutils.S1Processor] Converting to dB...
+[INFO: 2026-05-31 08:16:51: eoutils.S1Processor] Processing finished in 15.46s.
+[INFO: 2026-05-31 08:16:56: eoutils.S1Processor] Processesing started for S1A_EW_GRDM_1SDH_20200701T185201_20200701T185305_033265_03DAA8_645D.SAFE.zip
+[INFO: 2026-05-31 08:16:56: eoutils.S1Processor] Processing band 1/2: HH
+[INFO: 2026-05-31 08:16:58: eoutils.S1Processor] Calibration and thermal noise removal...
+[INFO: 2026-05-31 08:17:02: eoutils.S1Processor] Converting to dB...
+[INFO: 2026-05-31 08:17:02: eoutils.S1Processor] Processing band 2/2: HV
+[INFO: 2026-05-31 08:17:04: eoutils.S1Processor] Calibration and thermal noise removal...
+[INFO: 2026-05-31 08:17:07: eoutils.S1Processor] Converting to dB...
+[INFO: 2026-05-31 08:17:09: eoutils.S1Processor] Processing finished in 12.31s.
+100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 2/2 [00:00<00:00,  2.08it/s]
+Processing row 358
+[INFO: 2026-05-31 08:19:48: eoutils.S1Processor] Processesing started for S1B_EW_GRDM_1SDH_20200701T082022_20200701T082122_022275_02A466_51A3.SAFE.zip
+[INFO: 2026-05-31 08:19:48: eoutils.S1Processor] Processing band 1/2: HH
+[INFO: 2026-05-31 08:19:50: eoutils.S1Processor] Calibration and thermal noise removal...
+[INFO: 2026-05-31 08:19:54: eoutils.S1Processor] Converting to dB...
+[INFO: 2026-05-31 08:19:55: eoutils.S1Processor] Processing band 2/2: HV
+[INFO: 2026-05-31 08:19:56: eoutils.S1Processor] Calibration and thermal noise removal...
+[INFO: 2026-05-31 08:20:00: eoutils.S1Processor] Converting to dB...
+[INFO: 2026-05-31 08:20:02: eoutils.S1Processor] Processing finished in 13.29s.
+[INFO: 2026-05-31 08:20:07: eoutils.S1Processor] Processesing started for S1A_EW_GRDM_1SDH_20200701T185201_20200701T185305_033265_03DAA8_645D.SAFE.zip
+[INFO: 2026-05-31 08:20:07: eoutils.S1Processor] Processing band 1/2: HH
+[INFO: 2026-05-31 08:20:08: eoutils.S1Processor] Calibration and thermal noise removal...
+[INFO: 2026-05-31 08:20:11: eoutils.S1Processor] Converting to dB...
+[INFO: 2026-05-31 08:20:12: eoutils.S1Processor] Processing band 2/2: HV
+[INFO: 2026-05-31 08:20:13: eoutils.S1Processor] Calibration and thermal noise removal...
+[INFO: 2026-05-31 08:20:16: eoutils.S1Processor] Converting to dB...
+[INFO: 2026-05-31 08:20:18: eoutils.S1Processor] Processing finished in 10.49s.
+100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 3/3 [00:01<00:00,  2.28it/s]
+Processing row 359
+[INFO: 2026-05-31 08:23:04: eoutils.S1Processor] Processesing started for S1B_EW_GRDM_1SDH_20200702T122033_20200702T122133_022292_02A4F3_5F08.SAFE.zip
+[INFO: 2026-05-31 08:23:04: eoutils.S1Processor] Processing band 1/2: HH
+[INFO: 2026-05-31 08:23:06: eoutils.S1Processor] Calibration and thermal noise removal...
+[INFO: 2026-05-31 08:23:10: eoutils.S1Processor] Converting to dB...
+[INFO: 2026-05-31 08:23:11: eoutils.S1Processor] Processing band 2/2: HV
+[INFO: 2026-05-31 08:23:12: eoutils.S1Processor] Calibration and thermal noise removal...
+[INFO: 2026-05-31 08:23:16: eoutils.S1Processor] Converting to dB...
+[INFO: 2026-05-31 08:23:18: eoutils.S1Processor] Processing finished in 13.98s.
+[INFO: 2026-05-31 08:23:23: eoutils.S1Processor] Processesing started for S1A_EW_GRDM_1SDH_20200703T121310_20200703T121410_033290_03DB64_DDE3.SAFE.zip
+[INFO: 2026-05-31 08:23:23: eoutils.S1Processor] Processing band 1/2: HH
+[INFO: 2026-05-31 08:23:25: eoutils.S1Processor] Calibration and thermal noise removal...
+[INFO: 2026-05-31 08:23:29: eoutils.S1Processor] Converting to dB...
+[INFO: 2026-05-31 08:23:30: eoutils.S1Processor] Processing band 2/2: HV
+[INFO: 2026-05-31 08:23:32: eoutils.S1Processor] Calibration and thermal noise removal...
+[INFO: 2026-05-31 08:23:36: eoutils.S1Processor] Converting to dB...
+[INFO: 2026-05-31 08:23:37: eoutils.S1Processor] Processing finished in 13.91s.
+0it [00:00, ?it/s]
+Processing row 360
+[INFO: 2026-05-31 08:26:20: eoutils.S1Processor] Processesing started for S1A_EW_GRDM_1SDH_20200704T111234_20200704T111339_033304_03DBCC_DDE4.SAFE.zip
+[INFO: 2026-05-31 08:26:20: eoutils.S1Processor] Processing band 1/2: HH
+[INFO: 2026-05-31 08:26:22: eoutils.S1Processor] Calibration and thermal noise removal...
+[INFO: 2026-05-31 08:26:27: eoutils.S1Processor] Converting to dB...
+[INFO: 2026-05-31 08:26:28: eoutils.S1Processor] Processing band 2/2: HV
+[INFO: 2026-05-31 08:26:29: eoutils.S1Processor] Calibration and thermal noise removal...
+[INFO: 2026-05-31 08:26:33: eoutils.S1Processor] Converting to dB...
+[INFO: 2026-05-31 08:26:34: eoutils.S1Processor] Processing finished in 14.58s.
+[INFO: 2026-05-31 08:26:37: eoutils.S1Processor] Processesing started for S1B_EW_GRDM_1SDH_20200703T210448_20200703T210506_022312_02A59C_43F7.SAFE.zip
+[INFO: 2026-05-31 08:26:37: eoutils.S1Processor] Processing band 1/2: HH
+[INFO: 2026-05-31 08:26:38: eoutils.S1Processor] Calibration and thermal noise removal...
+[INFO: 2026-05-31 08:26:39: eoutils.S1Processor] Converting to dB...
+[INFO: 2026-05-31 08:26:39: eoutils.S1Processor] Processing band 2/2: HV
+[INFO: 2026-05-31 08:26:40: eoutils.S1Processor] Calibration and thermal noise removal...
+[INFO: 2026-05-31 08:26:41: eoutils.S1Processor] Converting to dB...
+[INFO: 2026-05-31 08:26:41: eoutils.S1Processor] Processing finished in 3.95s.
+100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 4/4 [00:01<00:00,  2.49it/s]
+Processing row 361
+[INFO: 2026-05-31 08:28:29: eoutils.S1Processor] Processesing started for S1B_EW_GRDM_1SDH_20200703T111948_20200703T112053_022306_02A568_D776.SAFE.zip
+[INFO: 2026-05-31 08:28:29: eoutils.S1Processor] Processing band 1/2: HH
+[INFO: 2026-05-31 08:28:30: eoutils.S1Processor] Calibration and thermal noise removal...
+[INFO: 2026-05-31 08:28:35: eoutils.S1Processor] Converting to dB...
+[INFO: 2026-05-31 08:28:35: eoutils.S1Processor] Processing band 2/2: HV
+[INFO: 2026-05-31 08:28:37: eoutils.S1Processor] Calibration and thermal noise removal...
+[INFO: 2026-05-31 08:28:41: eoutils.S1Processor] Converting to dB...
+[INFO: 2026-05-31 08:28:42: eoutils.S1Processor] Processing finished in 13.03s.
+[INFO: 2026-05-31 08:28:44: eoutils.S1Processor] Processesing started for S1B_EW_GRDM_1SDH_20200703T210448_20200703T210506_022312_02A59C_43F7.SAFE.zip
+[INFO: 2026-05-31 08:28:44: eoutils.S1Processor] Processing band 1/2: HH
+[INFO: 2026-05-31 08:28:44: eoutils.S1Processor] Calibration and thermal noise removal...
+[INFO: 2026-05-31 08:28:46: eoutils.S1Processor] Converting to dB...
+[INFO: 2026-05-31 08:28:46: eoutils.S1Processor] Processing band 2/2: HV
+[INFO: 2026-05-31 08:28:46: eoutils.S1Processor] Calibration and thermal noise removal...
+[INFO: 2026-05-31 08:28:47: eoutils.S1Processor] Converting to dB...
+[INFO: 2026-05-31 08:28:47: eoutils.S1Processor] Processing finished in 3.05s.
+100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 4/4 [00:01<00:00,  2.62it/s]
+Processing row 362
+Error processing row 362
+"There is no item named 'RCM2_OK1101944_PK1162826_1_SCLNB_20200707_222446_HH_HV_GRD.SAFE/manifest.safe' in the archive"
+Processing row 363
+[INFO: 2026-05-31 08:30:33: eoutils.S1Processor] Processesing started for S1A_EW_GRDM_1SDH_20200707T114054_20200707T114154_033348_03DD22_E91D.SAFE.zip
+[INFO: 2026-05-31 08:30:33: eoutils.S1Processor] Processing band 1/2: HH
+[INFO: 2026-05-31 08:30:35: eoutils.S1Processor] Calibration and thermal noise removal...
+[INFO: 2026-05-31 08:30:39: eoutils.S1Processor] Converting to dB...
+[INFO: 2026-05-31 08:30:39: eoutils.S1Processor] Processing band 2/2: HV
+[INFO: 2026-05-31 08:30:41: eoutils.S1Processor] Calibration and thermal noise removal...
+[INFO: 2026-05-31 08:30:45: eoutils.S1Processor] Converting to dB...
+[INFO: 2026-05-31 08:30:46: eoutils.S1Processor] Processing finished in 13.37s.
+[INFO: 2026-05-31 08:30:52: eoutils.S1Processor] Processesing started for S1B_EW_GRDM_1SDH_20200708T113225_20200708T113325_022379_02A79B_9DA2.SAFE.zip
+[INFO: 2026-05-31 08:30:52: eoutils.S1Processor] Processing band 1/2: HH
+[INFO: 2026-05-31 08:30:54: eoutils.S1Processor] Calibration and thermal noise removal...
+[INFO: 2026-05-31 08:30:58: eoutils.S1Processor] Converting to dB...
+[INFO: 2026-05-31 08:30:58: eoutils.S1Processor] Processing band 2/2: HV
+[INFO: 2026-05-31 08:31:00: eoutils.S1Processor] Calibration and thermal noise removal...
+[INFO: 2026-05-31 08:31:04: eoutils.S1Processor] Converting to dB...
+[INFO: 2026-05-31 08:31:05: eoutils.S1Processor] Processing finished in 13.47s.
+0it [00:00, ?it/s]
+Processing row 364
+[INFO: 2026-05-31 08:33:34: eoutils.S1Processor] Processesing started for S1B_EW_GRDM_1SDH_20200711T115300_20200711T115400_022423_02A8EA_7A31.SAFE.zip
+[INFO: 2026-05-31 08:33:34: eoutils.S1Processor] Processing band 1/2: HH
+[INFO: 2026-05-31 08:33:36: eoutils.S1Processor] Calibration and thermal noise removal...
+[INFO: 2026-05-31 08:33:40: eoutils.S1Processor] Converting to dB...
+[INFO: 2026-05-31 08:33:40: eoutils.S1Processor] Processing band 2/2: HV
+[INFO: 2026-05-31 08:33:42: eoutils.S1Processor] Calibration and thermal noise removal...
+[INFO: 2026-05-31 08:33:46: eoutils.S1Processor] Converting to dB...
+[INFO: 2026-05-31 08:33:47: eoutils.S1Processor] Processing finished in 12.74s.
+[INFO: 2026-05-31 08:33:53: eoutils.S1Processor] Processesing started for S1A_EW_GRDM_1SDH_20200710T120104_20200710T120208_033392_03DE74_CC26.SAFE.zip
+[INFO: 2026-05-31 08:33:53: eoutils.S1Processor] Processing band 1/2: HH
+[INFO: 2026-05-31 08:33:54: eoutils.S1Processor] Calibration and thermal noise removal...
+[INFO: 2026-05-31 08:33:58: eoutils.S1Processor] Converting to dB...
+[INFO: 2026-05-31 08:33:59: eoutils.S1Processor] Processing band 2/2: HV
+[INFO: 2026-05-31 08:34:00: eoutils.S1Processor] Calibration and thermal noise removal...
+[INFO: 2026-05-31 08:34:04: eoutils.S1Processor] Converting to dB...
+[INFO: 2026-05-31 08:34:05: eoutils.S1Processor] Processing finished in 12.46s.
+Error processing row 364
+[Errno 13] Permission denied: '/dmidata/projects/ai4arctic/asidv3/dataset_files/S1A_EW_GRDM_1SDH_20200710T120104_20200710T120208_033392_03DE74_EA54_icechart_dmi_20200710
+1200_Qaanaaq_RIC.nc'
+Processing row 365
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20200710T120104/S1B_EW_GRDM_1SDH_20200710T111138_20200710T111226_022408_02A878_E26E.SAFE.zip
+Processing row 366
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20200714T104117/S1B_EW_GRDM_1SDH_20200713T211904_20200713T212019_022458_02A9FA_49ED.SAFE.zip
+Processing row 367
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20200714T104217/RCM2_OK1101944_PK1168966_1_SCLNA_20200714_214429_HH_HV_GRD.zip
+Processing row 368
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20200715T112054/S1A_EW_GRDM_1SDH_20200714T113013_20200714T113113_033450_03E04F_BE80.SAFE.zip
+Processing row 369
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20200716T111235/S1B_EW_GRDM_1SDH_20200715T111949_20200715T112054_022481_02AAB4_8DB4.SAFE.zip
+Processing row 370
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20200722T111138/S1A_EW_GRDM_1SDH_20200722T120105_20200722T120209_033567_03E3D3_5709.SAFE.zip
+Processing row 371
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20200722T111138/S1A_EW_GRDM_1SDH_20200721T112007_20200721T112112_033552_03E359_CA04.SAFE.zip
+Processing row 372
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20200722T120105/S1B_EW_GRDM_1SDH_20200722T205623_20200722T205723_022589_02ADF6_03E0.SAFE.zip
+Processing row 373
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20200722T120105/S1B_EW_GRDM_1SDH_20200722T111138_20200722T111227_022583_02ADC9_6CE7.SAFE.zip
+Processing row 374
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20200728T214247/RCM2_OK1101944_PK1183649_1_SCLNB_20200728_220048_HH_HV_GRD.zip
+Processing row 375
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20200918T081115/S1B_EW_GRDM_1SDH_20200918T175522_20200918T175622_023433_02C830_7B66.SAFE.zip
+Processing row 376
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20200918T081115/S1A_EW_GRDM_1SDH_20200917T180441_20200917T180541_034402_040043_9241.SAFE.zip
+Processing row 377
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20200930T080916/S1B_EW_GRDM_1SDH_20200930T094739_20200930T094831_023603_02CD87_8D6B.SAFE.zip
+Processing row 378
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20200930T080916/S1A_EW_GRDM_1SDH_20200929T081806_20200929T081910_034571_040645_9742.SAFE.zip
+Processing row 379
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20201005T081727/S1B_EW_GRDM_1SDH_20201005T095551_20201005T095645_023676_02CFC3_0679.SAFE.zip
+Processing row 380
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20201005T081727/S1A_EW_GRDM_1SDH_20201004T082618_20201004T082722_034644_0408DF_501E.SAFE.zip
+Processing row 381
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20201005T180333/S1A_EW_GRDM_1SDH_20201006T081120_20201006T081220_034673_0409E2_6BD8.SAFE.zip
+Processing row 382
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20201005T180333/S1B_EW_GRDM_1SDH_20201005T081927_20201005T082027_023675_02CFB9_422E.SAFE.zip
+Processing row 383
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20201005T180433/S1A_EW_GRDM_1SDH_20201006T081120_20201006T081220_034673_0409E2_6BD8.SAFE.zip
+Processing row 384
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20201005T180433/S1B_EW_GRDM_1SDH_20201005T081827_20201005T081927_023675_02CFB9_B2FF.SAFE.zip
+Processing row 385
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20201012T175522/S1A_EW_GRDM_1SDH_20201013T080248_20201013T080348_034775_040D55_CF17.SAFE.zip
+Processing row 386
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20201012T175522/S1B_EW_GRDM_1SDH_20201012T081116_20201012T081216_023777_02D2E6_5F18.SAFE.zip
+Processing row 387
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20201012T175622/S1A_EW_GRDM_1SDH_20201013T080248_20201013T080348_034775_040D55_CF17.SAFE.zip
+Processing row 388
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20201012T175622/S1B_EW_GRDM_1SDH_20201012T081016_20201012T081116_023777_02D2E6_4D3C.SAFE.zip
+Processing row 389
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20201016T082618/S1A_EW_GRDM_1SDH_20201016T181400_20201016T181508_034825_040F25_6972.SAFE.zip
+Processing row 390
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20201016T082722/S1B_EW_GRDM_1SDH_20201016T172400_20201016T172428_023841_02D4E0_A388.SAFE.zip
+Processing row 391
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20201016T082722/S1B_EW_GRDM_1SDH_20201015T182114_20201015T182222_023827_02D478_730A.SAFE.zip
+Processing row 392
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20201019T183650/S1B_EW_GRDM_1SDH_20201019T080307_20201019T080407_023879_02D608_C3EA.SAFE.zip
+Processing row 393
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20201020T075452/S1B_EW_GRDM_1SDH_20201019T174754_20201019T174854_023885_02D643_2465.SAFE.zip
+Processing row 394
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20201023T082011/S1A_EW_GRDM_1SDH_20201023T180442_20201023T180542_034927_0412AD_3EEF.SAFE.zip
+Processing row 395
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20201023T082011/S1B_EW_GRDM_1SDH_20201022T181145_20201022T181245_023929_02D7B6_47BA.SAFE.zip
+Processing row 396
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20201024T184354/S1A_EW_GRDM_1SDH_20201025T080448_20201025T080548_034950_041367_EFB3.SAFE.zip
+Processing row 397
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20201024T184354/S1B_EW_GRDM_1SDH_20201024T081216_20201024T081316_023952_02D863_3DBF.SAFE.zip
+Processing row 398
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20201024T184458/S1A_EW_GRDM_1SDH_20201025T080348_20201025T080448_034950_041367_9F6A.SAFE.zip
+Processing row 399
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20201024T184458/S1B_EW_GRDM_1SDH_20201024T081116_20201024T081216_023952_02D863_2EA6.SAFE.zip
+Processing row 400
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20201026T120108/S1B_EW_GRDM_1SDH_20201026T205726_20201026T205836_023989_02D98A_BA46.SAFE.zip
+Processing row 401
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20201026T120108/S1B_EW_GRDM_1SDH_20201025T120827_20201025T120927_023969_02D8F0_0457.SAFE.zip
+Processing row 402
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20201029T082027/S1A_EW_GRDM_1SDH_20201029T185206_20201029T185310_035015_0415B3_29BE.SAFE.zip
+Processing row 403
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20201029T082027/S1B_EW_GRDM_1SDH_20201028T185938_20201028T190042_024017_02DA6B_D440.SAFE.zip
+Processing row 404
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20201031T183546/S1B_EW_GRDM_1SDH_20201031T080355_20201031T080455_024054_02DB89_338F.SAFE.zip
+Processing row 405
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20201031T183650/S1B_EW_GRDM_1SDH_20201031T080255_20201031T080355_024054_02DB89_1619.SAFE.zip
+Processing row 406
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20201104T171455/S1A_EW_GRDM_1SDH_20201104T180439_20201104T180539_035102_0418B2_025B.SAFE.zip
+Processing row 407
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20201104T171455/S1A_EW_GRDM_1SDH_20201104T081910_20201104T082010_035096_04187C_8F00.SAFE.zip
+Processing row 408
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20201105T184458/S1A_EW_GRDM_1SDH_20201106T080348_20201106T080448_035125_041967_0F48.SAFE.zip
+Processing row 409
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20201105T184458/S1B_EW_GRDM_1SDH_20201105T081116_20201105T081216_024127_02DDC9_B4CA.SAFE.zip
+Processing row 410
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20201109T082722/S1B_EW_GRDM_1SDH_20201109T172400_20201109T172428_024191_02DFC7_2451.SAFE.zip
+Processing row 411
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20201109T082722/S1B_EW_GRDM_1SDH_20201108T182114_20201108T182222_024177_02DF5E_FB29.SAFE.zip
+Processing row 412
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20201112T080307/S1A_EW_GRDM_1SDH_20201112T183650_20201112T183744_035219_041CBD_91B3.SAFE.zip
+Processing row 413
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20201112T080307/S1B_EW_GRDM_1SDH_20201111T184445_20201111T184546_024221_02E0B5_65B9.SAFE.zip
+Processing row 414
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20201112T080407/S1A_EW_GRDM_1SDH_20201112T183545_20201112T183650_035219_041CBD_1DAA.SAFE.zip
+Processing row 415
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20201112T080407/S1B_EW_GRDM_1SDH_20201111T184345_20201111T184445_024221_02E0B5_2B78.SAFE.zip
+Processing row 416
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20201201T111546/RCM3_OK1349468_PK1398210_1_SCLNA_20201201_111610_HH_HV_GRD.zip
+Processing row 417
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20201203T082921/S1B_EW_GRDM_1SDH_20201203T185937_20201203T190041_024542_02EAE1_445B.SAFE.zip
+Processing row 418
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20201204T104807/S1B_EW_GRDM_1SDH_20201205T103916_20201205T104021_024566_02EBA6_AD32.SAFE.zip
+Processing row 419
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20201204T104807/S1B_EW_GRDM_1SDH_20201203T204005_20201203T204105_024543_02EAE8_BE0C.SAFE.zip
+Processing row 420
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20201205T104121/S1B_EW_GRDM_1SDH_20201204T211848_20201204T211948_024558_02EB65_EB10.SAFE.zip
+Processing row 421
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20201205T211236/S1B_EW_GRDM_1SDH_20201206T210428_20201206T210509_024587_02EC67_04F4.SAFE.zip
+Processing row 422
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20201205T211236/S1B_EW_GRDM_1SDH_20201205T202321_20201205T202421_024572_02EBD8_FDB6.SAFE.zip
+Processing row 423
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20201208T110434/S1A_EW_GRDM_1SDH_20201208T101609_20201208T101714_035593_0429AE_4054.SAFE.zip
+Processing row 424
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20201210T082009/S1B_EW_GRDM_1SDH_20201210T185230_20201210T185324_024644_02EE3E_DA7D.SAFE.zip
+Processing row 425
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20201210T082009/S1A_EW_GRDM_1SDH_20201209T190123_20201209T190217_035613_042A66_BB64.SAFE.zip
+Processing row 426
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20201211T112828/S1A_EW_GRDM_1SDH_20201212T112046_20201212T112150_035652_042BAA_817A.SAFE.zip
+Processing row 427
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20201211T112828/S1A_EW_GRDM_1SDH_20201211T103958_20201211T104102_035637_042B27_D199.SAFE.zip
+Processing row 428
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20201212T103315/S1A_EW_GRDM_1SDH_20201211T104202_20201211T104302_035637_042B27_317F.SAFE.zip
+Processing row 429
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20201213T111545/RCM3_OK1303083_PK1415311_1_SCLNA_20201213_111551_HH_HV_GRD.zip
+Processing row 430
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20201213T120211/S1B_EW_GRDM_1SDH_20201213T125025_20201213T125125_024684_02EF7C_5A42.SAFE.zip
+Processing row 431
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20201213T120211/S1B_EW_GRDM_1SDH_20201212T120926_20201212T121026_024669_02EF0A_F651.SAFE.zip
+Processing row 432
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20201213T173922/S1B_EW_GRDM_1SDH_20201213T075358_20201213T075458_024681_02EF64_945E.SAFE.zip
+Processing row 433
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20201218T112356/S1A_EW_GRDM_1SDH_20201219T111642_20201219T111744_035754_042F2F_D781.SAFE.zip
+Processing row 434
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20201218T112356/S1A_EW_GRDM_1SDH_20201217T113216_20201217T113316_035725_042E40_12BC.SAFE.zip
+Processing row 435
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20201222T081805/S1B_EW_GRDM_1SDH_20201222T171553_20201222T171612_024818_02F3E0_EE49.SAFE.zip
+Processing row 436
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20201222T081805/S1B_EW_GRDM_1SDH_20201221T082537_20201221T082637_024798_02F33D_D1F2.SAFE.zip
+Processing row 437
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20201223T121824/S1B_EW_GRDM_1SDH_20201224T120925_20201224T121025_024844_02F4B8_15EB.SAFE.zip
+Processing row 438
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20201223T121824/S1B_EW_GRDM_1SDH_20201222T122548_20201222T122648_024815_02F3C7_B1B0.SAFE.zip
+Processing row 439
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20201224T103414/S1A_EW_GRDM_1SDH_20201223T104302_20201223T104402_035812_043131_C287.SAFE.zip
+Processing row 440
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20201230T080205/S1A_EW_GRDM_1SDH_20201231T075449_20201231T075549_035927_043532_5757.SAFE.zip
+Processing row 441
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20201230T080205/S1A_EW_GRDM_1SDH_20201229T175647_20201229T175742_035904_043480_3E0E.SAFE.zip
+Processing row 442
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210102T082736/S1B_EW_GRDM_1SDH_20210102T181143_20210102T181243_024979_02F916_7164.SAFE.zip
+Processing row 443
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210103T171453/S1A_EW_GRDM_1SDH_20210103T180437_20210103T180537_035977_0436FE_F4FA.SAFE.zip
+Processing row 444
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210103T171453/S1A_EW_GRDM_1SDH_20210103T081908_20210103T082008_035971_0436C8_DEB1.SAFE.zip
+Processing row 445
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210105T084955/S1A_EW_GRDM_1SDH_20210106T084309_20210106T084339_036015_043848_510E.SAFE.zip
+Processing row 446
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210105T084955/S1B_EW_GRDM_1SDH_20210104T094737_20210104T094829_025003_02F9D1_EFF8.SAFE.zip
+Processing row 447
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210110T211135/S1B_EW_GRDM_1SDH_20210110T104119_20210110T104219_025091_02FC99_31BB.SAFE.zip
+Processing row 448
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210113T074539/S1B_EW_GRDM_1SDH_20210112T084256_20210112T084327_025119_02FD8E_7692.SAFE.zip
+Processing row 449
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210113T102013/RCM3_OK1352580_PK1458198_1_SCLNA_20210113_103656_HH_HV_GRD.zip
+Processing row 450
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210113T102013/S1B_EW_GRDM_1SDH_20210112T214043_20210112T214148_025127_02FDD9_216F.SAFE.zip
+Processing row 451
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210113T110732/S1A_EW_GRDM_1SDH_20210112T111641_20210112T111743_036104_043B70_570D.SAFE.zip
+Processing row 452
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210114T082736/S1B_EW_GRDM_1SDH_20210114T181142_20210114T181242_025154_02FEB4_22F1.SAFE.zip
+Processing row 453
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210116T211024/S1B_EW_GRDM_1SDH_20210117T103313_20210117T103359_025193_02FFE4_DA61.SAFE.zip
+Processing row 454
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210116T211024/S1A_EW_GRDM_1SDH_20210116T104200_20210116T104300_036162_043D6B_39AD.SAFE.zip
+Processing row 455
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210118T075256/S1A_EW_GRDM_1SDH_20210118T084308_20210118T084338_036190_043E6C_1587.SAFE.zip
+Processing row 456
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210118T075256/S1B_EW_GRDM_1SDH_20210117T085055_20210117T085155_025192_02FFDA_0834.SAFE.zip
+Processing row 457
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210118T102434/S1B_EW_GRDM_1SDH_20210117T103109_20210117T103213_025193_02FFE4_8E45.SAFE.zip
+Processing row 458
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210118T120105/S1B_EW_GRDM_1SDH_20210118T205629_20210118T205733_025214_03008C_43EB.SAFE.zip
+Processing row 459
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210118T120105/S1B_EW_GRDM_1SDH_20210118T111139_20210118T111243_025208_03005C_D209.SAFE.zip
+Processing row 460
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210121T081924/S1A_EW_GRDM_1SDH_20210121T185307_20210121T185403_036240_044038_970B.SAFE.zip
+Processing row 461
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210121T081924/S1B_EW_GRDM_1SDH_20210120T190039_20210120T190133_025242_030171_6919.SAFE.zip
+Processing row 462
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210121T082024/S1A_EW_GRDM_1SDH_20210121T185202_20210121T185307_036240_044038_4759.SAFE.zip
+Processing row 463
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210121T082024/S1B_EW_GRDM_1SDH_20210120T185935_20210120T190039_025242_030171_8961.SAFE.zip
+Processing row 464
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210121T104804/S1B_EW_GRDM_1SDH_20210122T103914_20210122T104018_025266_030232_EA74.SAFE.zip
+Processing row 465
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210121T104804/S1B_EW_GRDM_1SDH_20210120T204006_20210120T204110_025243_030178_321C.SAFE.zip
+Processing row 466
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210121T104909/S1B_EW_GRDM_1SDH_20210122T103914_20210122T104018_025266_030232_EA74.SAFE.zip
+Processing row 467
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210121T212145/S1A_EW_GRDM_1SDH_20210122T112810_20210122T112914_036250_044094_ED8B.SAFE.zip
+Processing row 468
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210121T212145/S1A_EW_GRDM_1SDH_20210121T122536_20210121T122631_036236_04400D_EEA0.SAFE.zip
+Processing row 469
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210124T214547/S1A_EW_GRDM_1SDH_20210125T115248_20210125T115352_036294_04420B_DF95.SAFE.zip
+Processing row 470
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210124T214547/S1A_EW_GRDM_1SDH_20210124T125103_20210124T125203_036280_044188_45DF.SAFE.zip
+Processing row 471
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210127T081803/S1B_EW_GRDM_1SDH_20210127T171552_20210127T171611_025343_0304B2_42E2.SAFE.zip
+Processing row 472
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210127T081803/S1B_EW_GRDM_1SDH_20210126T082536_20210126T082636_025323_030410_60C7.SAFE.zip
+Processing row 473
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210127T211942/S1A_EW_GRDM_1SDH_20210128T104200_20210128T104300_036337_044383_6C56.SAFE.zip
+Processing row 474
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210127T212142/S1A_EW_GRDM_1SDH_20210128T103956_20210128T104100_036337_044383_4266.SAFE.zip
+Processing row 475
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210127T212242/S1B_EW_GRDM_1SDH_20210128T112726_20210128T112826_025354_03050B_DCCB.SAFE.zip
+Processing row 476
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210127T212242/S1B_EW_GRDM_1SDH_20210127T122447_20210127T122547_025340_030499_9EE4.SAFE.zip
+Processing row 477
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210128T081013/S1B_EW_GRDM_1SDH_20210128T175619_20210128T175659_025358_030525_A40B.SAFE.zip
+Processing row 478
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210128T081013/S1A_EW_GRDM_1SDH_20210127T180536_20210127T180636_036327_044338_6FC6.SAFE.zip
+Processing row 479
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210128T103956/S1B_EW_GRDM_1SDH_20210129T103109_20210129T103213_025368_03057A_3DDB.SAFE.zip
+Processing row 480
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210129T103213/S1B_EW_GRDM_1SDH_20210129T201403_20210129T201508_025374_0305AF_A99F.SAFE.zip
+Processing row 481
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210129T103213/S1A_EW_GRDM_1SDH_20210128T104100_20210128T104200_036337_044383_C597.SAFE.zip
+Processing row 482
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210201T082819/S1A_EW_GRDM_1SDH_20210201T181156_20210201T181256_036400_0445BD_0146.SAFE.zip
+Processing row 483
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210201T082819/S1A_EW_GRDM_1SDH_20210131T190925_20210131T191026_036386_044538_DAD8.SAFE.zip
+Processing row 484
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210201T082919/S1B_EW_GRDM_1SDH_20210201T185934_20210201T190039_025417_030702_57BD.SAFE.zip
+Processing row 485
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210201T082919/S1A_EW_GRDM_1SDH_20210131T190825_20210131T190925_036386_044538_7609.SAFE.zip
+Processing row 486
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210202T081724/S1B_EW_GRDM_1SDH_20210202T180430_20210202T180538_025431_03077C_3DD8.SAFE.zip
+Processing row 487
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210202T081724/S1A_EW_GRDM_1SDH_20210201T082614_20210201T082719_036394_044588_2E96.SAFE.zip
+Processing row 488
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210202T104804/S1B_EW_GRDM_1SDH_20210203T103914_20210203T104018_025441_0307CD_2623.SAFE.zip
+Processing row 489
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210202T104804/S1B_EW_GRDM_1SDH_20210201T105515_20210201T105620_025412_0306D9_1088.SAFE.zip
+Processing row 490
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210202T104908/S1B_EW_GRDM_1SDH_20210203T103914_20210203T104018_025441_0307CD_2623.SAFE.zip
+Processing row 491
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210204T080104/S1B_EW_GRDM_1SDH_20210204T174750_20210204T174850_025460_030877_5117.SAFE.zip
+Processing row 492
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210204T080104/S1B_EW_GRDM_1SDH_20210203T085906_20210203T090006_025440_0307C2_779B.SAFE.zip
+Processing row 493
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210204T080304/S1B_EW_GRDM_1SDH_20210204T174646_20210204T174750_025460_030877_97E2.SAFE.zip
+Processing row 494
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210204T080304/S1B_EW_GRDM_1SDH_20210203T184442_20210203T184543_025446_0307F7_B5B2.SAFE.zip
+Processing row 495
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210204T210449/S1A_EW_GRDM_1SDH_20210205T111235_20210205T111340_036454_04478A_8826.SAFE.zip
+Processing row 496
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210204T210449/S1A_EW_GRDM_1SDH_20210203T211334_20210203T211434_036431_0446D3_EEA0.SAFE.zip
+Processing row 497
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210205T205231/RCM2_OK1358192_PK1484740_1_SCLNA_20210206_203020_HH_HV_GRD.zip
+Processing row 498
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210205T214042/RCM3_OK1358192_PK1484278_1_SCLNA_20210206_103655_HH_HV_GRD.zip
+Processing row 499
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210208T081907/S1A_EW_GRDM_1SDH_20210208T180435_20210208T180535_036502_044947_B194.SAFE.zip
+Processing row 500
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210208T081907/S1B_EW_GRDM_1SDH_20210207T181241_20210207T181341_025504_0309F1_0A69.SAFE.zip
+Processing row 501
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210208T212242/S1B_EW_GRDM_1SDH_20210209T112726_20210209T112826_025529_030ABD_EC10.SAFE.zip
+Processing row 502
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210209T104100/S1B_EW_GRDM_1SDH_20210209T211123_20210209T211223_025535_030AEA_FDF4.SAFE.zip
+Processing row 503
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210209T104100/S1B_EW_GRDM_1SDH_20210208T203042_20210208T203142_025520_030A73_B3B5.SAFE.zip
+Processing row 504
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210209T104200/S1B_EW_GRDM_1SDH_20210210T103313_20210210T103358_025543_030B2C_E0F8.SAFE.zip
+Processing row 505
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210209T104200/S1A_EW_GRDM_1SDH_20210208T211942_20210208T212042_036504_044959_26C7.SAFE.zip
+Processing row 506
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210210T120923/S1A_EW_GRDM_1SDH_20210211T120104_20210211T120209_036542_044AA2_9BDD.SAFE.zip
+Processing row 507
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210210T120923/S1A_EW_GRDM_1SDH_20210210T112044_20210210T112148_036527_044A17_FD91.SAFE.zip
+Processing row 508
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210210T183610/S1A_EW_GRDM_1SDH_20210210T080344_20210210T080444_036525_044A00_3D80.SAFE.zip
+Processing row 509
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210211T093055/S1A_EW_GRDM_1SDH_20210211T084307_20210211T084337_036540_044A8E_2545.SAFE.zip
+Processing row 510
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210211T205223/RCM3_OK1352580_PK1488774_1_SCLNA_20210211_203913_HH_HV_GRD.zip
+Processing row 511
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210211T205423/S1A_EW_GRDM_1SDH_20210211T102433_20210211T102538_036541_044A98_2AE6.SAFE.zip
+Processing row 512
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210212T115300/S1A_EW_GRDM_1SDH_20210213T114441_20210213T114546_036571_044BAB_42DA.SAFE.zip
+Processing row 513
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210212T115300/S1B_EW_GRDM_1SDH_20210212T115300_20210212T115400_025573_030C23_E1F3.SAFE.zip
+Processing row 514
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210214T185202/S1A_EW_GRDM_1SDH_20210215T081317_20210215T081417_036598_044CAF_C6DB.SAFE.zip
+Processing row 515
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210214T185202/S1B_EW_GRDM_1SDH_20210214T082023_20210214T082123_025600_030CF9_B7CD.SAFE.zip
+Processing row 516
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210214T212145/S1A_EW_GRDM_1SDH_20210215T112809_20210215T112914_036600_044CC2_B993.SAFE.zip
+Processing row 517
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210217T214042/S1A_EW_GRDM_1SDH_20210218T102040_20210218T102104_036643_044E2C_66A6.SAFE.zip
+Processing row 518
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210218T092207/S1B_EW_GRDM_1SDH_20210218T110048_20210218T110148_025660_030F0C_310E.SAFE.zip
+Processing row 519
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210218T092207/S1B_EW_GRDM_1SDH_20210217T165231_20210217T165335_025649_030EB3_7CE9.SAFE.zip
+Processing row 520
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210218T092307/S1B_EW_GRDM_1SDH_20210219T082535_20210219T082635_025673_030F6F_A463.SAFE.zip
+Processing row 521
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210218T101940/S1B_EW_GRDM_1SDH_20210217T214042_20210217T214146_025652_030EC9_C42B.SAFE.zip
+Processing row 522
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210218T102040/RCM3_OK1358192_PK1494882_1_SCLNA_20210218_103655_HH_HV_GRD.zip
+Processing row 523
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210218T102040/S1B_EW_GRDM_1SDH_20210217T214042_20210217T214146_025652_030EC9_C42B.SAFE.zip
+Processing row 524
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210218T110431/S1A_EW_GRDM_1SDH_20210219T105615_20210219T105719_036658_044EB5_CAEB.SAFE.zip
+Processing row 525
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210218T110431/S1A_EW_GRDM_1SDH_20210218T101536_20210218T101640_036643_044E2C_48A5.SAFE.zip
+Processing row 526
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210220T082007/S1B_EW_GRDM_1SDH_20210220T185227_20210220T185321_025694_03101D_E080.SAFE.zip
+Processing row 527
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210220T082007/S1A_EW_GRDM_1SDH_20210219T190120_20210219T190214_036663_044EE4_39D4.SAFE.zip
+Processing row 528
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210220T082107/S1B_EW_GRDM_1SDH_20210220T185123_20210220T185227_025694_03101D_1E2A.SAFE.zip
+Processing row 529
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210220T082107/S1A_EW_GRDM_1SDH_20210219T190016_20210219T190120_036663_044EE4_BEE9.SAFE.zip
+Processing row 530
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210222T080244/S1B_EW_GRDM_1SDH_20210222T085054_20210222T085154_025717_0310D6_167D.SAFE.zip
+Processing row 531
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210222T080244/S1B_EW_GRDM_1SDH_20210221T175618_20210221T175658_025708_03108B_33A8.SAFE.zip
+Processing row 532
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210222T080344/S1B_EW_GRDM_1SDH_20210222T183610_20210222T183710_025723_03110C_9BED.SAFE.zip
+Processing row 533
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210222T080344/S1A_EW_GRDM_1SDH_20210221T184454_20210221T184554_036692_044FDF_D053.SAFE.zip
+Processing row 534
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210222T080444/S1B_EW_GRDM_1SDH_20210222T183506_20210222T183610_025723_03110C_C6C3.SAFE.zip
+Processing row 535
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210222T080444/S1A_EW_GRDM_1SDH_20210221T184350_20210221T184454_036692_044FDF_97BC.SAFE.zip
+Processing row 536
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210222T080544/S1A_EW_GRDM_1SDH_20210221T184350_20210221T184454_036692_044FDF_97BC.SAFE.zip
+Processing row 537
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210222T120923/S1A_EW_GRDM_1SDH_20210223T120104_20210223T120208_036717_0450BE_A40E.SAFE.zip
+Processing row 538
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210222T120923/S1A_EW_GRDM_1SDH_20210222T112043_20210222T112148_036702_045032_0889.SAFE.zip
+Processing row 539
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210223T102537/S1B_EW_GRDM_1SDH_20210222T103312_20210222T103358_025718_0310E0_8B76.SAFE.zip
+Processing row 540
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210224T195547/S1A_EW_GRDM_1SDH_20210225T194818_20210225T194918_036751_0451EB_D9A3.SAFE.zip
+Processing row 541
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210224T195547/S1A_EW_GRDM_1SDH_20210223T200443_20210223T200543_036722_0450E5_13AC.SAFE.zip
+Processing row 542
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210225T082918/S1B_EW_GRDM_1SDH_20210225T185934_20210225T190038_025767_03126F_8294.SAFE.zip
+Processing row 543
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210225T082918/S1A_EW_GRDM_1SDH_20210224T190825_20210224T190925_036736_045164_2D37.SAFE.zip
+Processing row 544
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210228T210448/S1A_EW_GRDM_1SDH_20210301T111235_20210301T111339_036804_0453BC_6938.SAFE.zip
+Processing row 545
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210228T210448/S1A_EW_GRDM_1SDH_20210227T211333_20210227T211433_036781_0452FF_0E5B.SAFE.zip
+Processing row 546
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210301T075648/S1A_EW_GRDM_1SDH_20210228T183542_20210228T183646_036794_045368_D930.SAFE.zip
+Processing row 547
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210301T084154/S1B_EW_GRDM_1SDH_20210228T093927_20210228T094015_025805_0313AE_81F9.SAFE.zip
+Processing row 548
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210303T105615/S1B_EW_GRDM_1SDH_20210302T110326_20210302T110431_025835_0314C8_ED02.SAFE.zip
+Processing row 549
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210304T081906/S1B_EW_GRDM_1SDH_20210304T171457_20210304T171557_025868_0315CC_432F.SAFE.zip
+Processing row 550
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210304T081906/S1B_EW_GRDM_1SDH_20210303T181241_20210303T181341_025854_031562_EF28.SAFE.zip
+Processing row 551
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210304T082006/S1B_EW_GRDM_1SDH_20210304T185227_20210304T185321_025869_0315D6_85B1.SAFE.zip
+Processing row 552
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210304T082006/S1A_EW_GRDM_1SDH_20210303T190120_20210303T190214_036838_0454F1_1227.SAFE.zip
+Processing row 553
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210305T211023/S1B_EW_GRDM_1SDH_20210306T103212_20210306T103312_025893_031698_ABA7.SAFE.zip
+Processing row 554
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210305T211023/S1A_EW_GRDM_1SDH_20210305T104159_20210305T104259_036862_0455BD_41BA.SAFE.zip
+Processing row 555
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210307T205523/S1A_EW_GRDM_1SDH_20210307T102433_20210307T102537_036891_0456D0_D302.SAFE.zip
+Processing row 556
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210308T074624/S1B_EW_GRDM_1SDH_20210308T182019_20210308T182119_025927_0317B9_5269.SAFE.zip
+Processing row 557
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210308T074624/S1B_EW_GRDM_1SDH_20210307T173920_20210307T174020_025912_031737_BE0D.SAFE.zip
+Processing row 558
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210308T074724/S1B_EW_GRDM_1SDH_20210308T182019_20210308T182119_025927_0317B9_5269.SAFE.zip
+Processing row 559
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210308T074724/S1B_EW_GRDM_1SDH_20210307T173920_20210307T174020_025912_031737_BE0D.SAFE.zip
+Processing row 560
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210309T082818/S1A_EW_GRDM_1SDH_20210309T181211_20210309T181311_036925_045800_BFB1.SAFE.zip
+Processing row 561
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210309T082818/S1A_EW_GRDM_1SDH_20210308T190925_20210308T191026_036911_045781_0A64.SAFE.zip
+Processing row 562
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210309T082918/S1B_EW_GRDM_1SDH_20210309T185934_20210309T190038_025942_03182B_86A1.SAFE.zip
+Processing row 563
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210309T082918/S1A_EW_GRDM_1SDH_20210308T190825_20210308T190925_036911_045781_28F4.SAFE.zip
+Processing row 564
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210311T081217/S1B_EW_GRDM_1SDH_20210311T184341_20210311T184441_025971_031911_DCDA.SAFE.zip
+Processing row 565
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210311T081217/S1A_EW_GRDM_1SDH_20210310T185317_20210310T185403_036940_045895_8AE6.SAFE.zip
+Processing row 566
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210311T081317/S1B_EW_GRDM_1SDH_20210311T184341_20210311T184441_025971_031911_DCDA.SAFE.zip
+Processing row 567
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210311T081317/S1B_EW_GRDM_1SDH_20210310T082023_20210310T082123_025950_031866_023E.SAFE.zip
+Processing row 568
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210311T211233/S1B_EW_GRDM_1SDH_20210312T210348_20210312T210448_025987_0319A7_7FEB.SAFE.zip
+Processing row 569
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210311T211233/S1B_EW_GRDM_1SDH_20210311T202328_20210311T202427_025972_031918_19C9.SAFE.zip
+Processing row 570
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210311T211333/S1B_EW_GRDM_1SDH_20210312T111949_20210312T112054_025981_03196B_AE61.SAFE.zip
+Processing row 571
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210311T211333/S1B_EW_GRDM_1SDH_20210311T202328_20210311T202427_025972_031918_19C9.SAFE.zip
+Processing row 572
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210312T210244/S1A_EW_GRDM_1SDH_20210311T211133_20210311T211233_036956_045918_D495.SAFE.zip
+Processing row 573
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210314T195632/S1B_EW_GRDM_1SDH_20210315T194733_20210315T194833_026030_031B15_19C4.SAFE.zip
+Processing row 574
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210314T195632/S1B_EW_GRDM_1SDH_20210313T200402_20210313T200502_026001_031A27_E2FE.SAFE.zip
+Processing row 575
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210315T082735/S1B_EW_GRDM_1SDH_20210315T181147_20210315T181247_026029_031B0D_D344.SAFE.zip
+Processing row 576
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210315T082735/S1B_EW_GRDM_1SDH_20210314T190843_20210314T190944_026015_031A9F_2BB0.SAFE.zip
+Processing row 577
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210315T082835/S1A_EW_GRDM_1SDH_20210315T190016_20210315T190120_037013_045B0E_36B1.SAFE.zip
+Processing row 578
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210315T082835/S1B_EW_GRDM_1SDH_20210314T190743_20210314T190843_026015_031A9F_21ED.SAFE.zip
+Processing row 579
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210316T081906/S1A_EW_GRDM_1SDH_20210316T180441_20210316T180541_037027_045B91_2B66.SAFE.zip
+Processing row 580
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210316T081906/S1B_EW_GRDM_1SDH_20210315T181247_20210315T181347_026029_031B0D_D5EF.SAFE.zip
+Processing row 581
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210317T121822/S1B_EW_GRDM_1SDH_20210318T120923_20210318T121023_026069_031C47_6896.SAFE.zip
+Processing row 582
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210317T121822/S1B_EW_GRDM_1SDH_20210316T221005_20210316T221121_026046_031B93_FE74.SAFE.zip
+Processing row 583
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210317T202037/S1B_EW_GRDM_1SDH_20210316T202742_20210316T202842_026045_031B8A_91F7.SAFE.zip
+Processing row 584
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210318T080444/S1B_EW_GRDM_1SDH_20210318T183509_20210318T183613_026073_031C69_866F.SAFE.zip
+Processing row 585
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210318T080444/S1A_EW_GRDM_1SDH_20210317T184444_20210317T184549_037042_045C0E_C0BB.SAFE.zip
+Processing row 586
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210319T205623/S1A_EW_GRDM_1SDH_20210320T110427_20210320T110531_037081_045D6C_2A99.SAFE.zip
+Processing row 587
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210319T205623/S1B_EW_GRDM_1SDH_20210319T111138_20210319T111242_026083_031CB8_D17F.SAFE.zip
+Processing row 588
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210321T194818/S1B_EW_GRDM_1SDH_20210322T193921_20210322T194021_026132_031E46_EA89.SAFE.zip
+Processing row 589
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210321T194818/S1B_EW_GRDM_1SDH_20210320T195547_20210320T195647_026103_031D61_DF19.SAFE.zip
+Processing row 590
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210322T081823/S1B_EW_GRDM_1SDH_20210322T180339_20210322T180439_026131_031E3E_7FD8.SAFE.zip
+Processing row 591
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210322T081823/S1A_EW_GRDM_1SDH_20210321T181311_20210321T181411_037100_045E1F_A413.SAFE.zip
+Processing row 592
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210322T081923/S1A_EW_GRDM_1SDH_20210322T185318_20210322T185403_037115_045EA5_2FCB.SAFE.zip
+Processing row 593
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210322T081923/S1B_EW_GRDM_1SDH_20210321T190038_20210321T190132_026117_031DCB_828F.SAFE.zip
+Processing row 594
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210322T082023/S1A_EW_GRDM_1SDH_20210323T081217_20210323T081317_037123_045EED_3D03.SAFE.zip
+Processing row 595
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210322T082023/S1B_EW_GRDM_1SDH_20210321T185934_20210321T190038_026117_031DCB_BA83.SAFE.zip
+Processing row 596
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210323T201928/RCM1_OK1358192_PK1528292_1_SCLNA_20210323_203841_HH_HV_GRD.zip
+Processing row 597
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210323T211134/S1B_EW_GRDM_1SDH_20210324T210244_20210324T210349_026162_031F42_7FDE.SAFE.zip
+Processing row 598
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210323T211134/S1B_EW_GRDM_1SDH_20210323T104118_20210323T104218_026141_031E8D_2AAC.SAFE.zip
+Processing row 599
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210324T121011/S1B_EW_GRDM_1SDH_20210324T125833_20210324T125933_026157_031F0C_1DDE.SAFE.zip
+Processing row 600
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210324T121011/S1B_EW_GRDM_1SDH_20210323T121734_20210323T121834_026142_031E96_BDEE.SAFE.zip
+Processing row 601
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210324T210244/S1A_EW_GRDM_1SDH_20210323T211134_20210323T211234_037131_045F2E_D320.SAFE.zip
+Processing row 602
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210324T210449/S1A_EW_GRDM_1SDH_20210325T111235_20210325T111340_037154_045FE5_FB57.SAFE.zip
+Processing row 603
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210324T210449/S1B_EW_GRDM_1SDH_20210324T111950_20210324T112054_026156_031F06_B442.SAFE.zip
+Processing row 604
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210326T110431/S1A_EW_GRDM_1SDH_20210327T105615_20210327T105720_037183_0460EB_9293.SAFE.zip
+Processing row 605
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210326T110431/S1A_EW_GRDM_1SDH_20210326T101536_20210326T101641_037168_046066_73C5.SAFE.zip
+Processing row 606
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210328T202742/S1A_EW_GRDM_1SDH_20210329T202037_20210329T202137_037218_04621D_7A03.SAFE.zip
+Processing row 607
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210328T202742/S1A_EW_GRDM_1SDH_20210327T203657_20210327T203757_037189_04611F_0C1C.SAFE.zip
+Processing row 608
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210329T081112/S1A_EW_GRDM_1SDH_20210329T184445_20210329T184549_037217_046217_4559.SAFE.zip
+Processing row 609
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210329T081112/S1A_EW_GRDM_1SDH_20210328T082007_20210328T082107_037196_046166_A938.SAFE.zip
+Processing row 610
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210329T081212/S1A_EW_GRDM_1SDH_20210329T184445_20210329T184549_037217_046217_4559.SAFE.zip
+Processing row 611
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210329T081212/S1A_EW_GRDM_1SDH_20210328T082107_20210328T082207_037196_046166_4184.SAFE.zip
+Processing row 612
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210329T081312/S1A_EW_GRDM_1SDH_20210328T082207_20210328T082307_037196_046166_06B1.SAFE.zip
+Processing row 613
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210329T202037/S1B_EW_GRDM_1SDH_20210330T201216_20210330T201316_026249_032200_3C42.SAFE.zip
+Processing row 614
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210329T202037/S1B_EW_GRDM_1SDH_20210328T202842_20210328T202942_026220_032117_B9C3.SAFE.zip
+Processing row 615
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210331T102433/S1B_EW_GRDM_1SDH_20210331T205523_20210331T205623_026264_03226E_0D2C.SAFE.zip
+Processing row 616
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210331T102433/S1B_EW_GRDM_1SDH_20210330T103212_20210330T103312_026243_0321CE_3EE2.SAFE.zip
+Processing row 617
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210401T074624/S1B_EW_GRDM_1SDH_20210401T182019_20210401T182119_026277_0322D9_8A4E.SAFE.zip
+Processing row 618
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210401T074624/S1B_EW_GRDM_1SDH_20210331T173923_20210331T174023_026262_032261_3552.SAFE.zip
+Processing row 619
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210402T203557/RCM1_OK1438220_PK1541882_1_SCLNA_20210403_093108_HH_HV_GRD.zip
+Processing row 620
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210404T211134/S1B_EW_GRDM_1SDH_20210405T210245_20210405T210349_026337_0324D5_2666.SAFE.zip
+Processing row 621
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210404T211134/S1B_EW_GRDM_1SDH_20210404T104018_20210404T104118_026316_032418_1081.SAFE.zip
+Processing row 622
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210404T211234/S1B_EW_GRDM_1SDH_20210405T210349_20210405T210449_026337_0324D5_D374.SAFE.zip
+Processing row 623
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210404T211234/S1B_EW_GRDM_1SDH_20210404T104018_20210404T104118_026316_032418_1081.SAFE.zip
+Processing row 624
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210405T210349/S1A_EW_GRDM_1SDH_20210404T211234_20210404T211334_037306_046537_E1E5.SAFE.zip
+Processing row 625
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210405T210449/S1A_EW_GRDM_1SDH_20210406T111236_20210406T111340_037329_0465F6_4251.SAFE.zip
+Processing row 626
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210405T210449/S1B_EW_GRDM_1SDH_20210405T111950_20210405T112054_026331_032498_CEB2.SAFE.zip
+Processing row 627
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210406T084155/S1B_EW_GRDM_1SDH_20210405T093927_20210405T094016_026330_03248B_53DB.SAFE.zip
+Processing row 628
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210407T074538/S1A_EW_GRDM_1SDH_20210406T075448_20210406T075548_037327_0465E0_D91B.SAFE.zip
+Processing row 629
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210407T102041/RCM3_OK1436518_PK1545175_1_SCLNA_20210407_103655_HH_HV_GRD.zip
+Processing row 630
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210407T102041/S1B_EW_GRDM_1SDH_20210406T214043_20210406T214147_026352_032556_80AA.SAFE.zip
+Processing row 631
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210407T195633/S1B_EW_GRDM_1SDH_20210408T194733_20210408T194833_026380_03262D_13A1.SAFE.zip
+Processing row 632
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210407T195633/S1B_EW_GRDM_1SDH_20210406T200402_20210406T200502_026351_032551_E234.SAFE.zip
+Processing row 633
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210408T082735/S1B_EW_GRDM_1SDH_20210408T181148_20210408T181248_026379_032625_4BAD.SAFE.zip
+Processing row 634
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210408T082735/S1B_EW_GRDM_1SDH_20210407T190844_20210407T190944_026365_0325BC_BC27.SAFE.zip
+Processing row 635
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210409T202743/RCM2_OK1436518_PK1570909_1_SCLNA_20210408_203823_HH_HV_GRD.zip
+Processing row 636
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210410T202037/S1B_EW_GRDM_1SDH_20210411T201217_20210411T201317_026424_03278C_DFC0.SAFE.zip
+Processing row 637
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210410T202037/S1B_EW_GRDM_1SDH_20210409T202843_20210409T202943_026395_0326A0_7113.SAFE.zip
+Processing row 638
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210411T120724/S1B_EW_GRDM_1SDH_20210411T183910_20210411T184014_026423_032786_E257.SAFE.zip
+Processing row 639
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210411T120724/S1B_EW_GRDM_1SDH_20210410T193556_20210410T193642_026409_03270F_21FD.SAFE.zip
+Processing row 640
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210411T174728/S1B_EW_GRDM_1SDH_20210411T183631_20210411T183731_026423_032785_6109.SAFE.zip
+Processing row 641
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210411T174728/S1A_EW_GRDM_1SDH_20210411T080344_20210411T080444_037400_04685E_DC16.SAFE.zip
+Processing row 642
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210411T183427/S1A_EW_GRDM_1SDH_20210411T080444_20210411T080544_037400_04685E_FB5F.SAFE.zip
+Processing row 643
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210411T183531/S1A_EW_GRDM_1SDH_20210411T080444_20210411T080544_037400_04685E_FB5F.SAFE.zip
+Processing row 644
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210412T102434/S1B_EW_GRDM_1SDH_20210411T103213_20210411T103313_026418_03275A_4DCE.SAFE.zip
+Processing row 645
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210412T200444/S1B_EW_GRDM_1SDH_20210411T201217_20210411T201317_026424_03278C_DFC0.SAFE.zip
+Processing row 646
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210414T194818/S1B_EW_GRDM_1SDH_20210415T193922_20210415T194022_026482_032962_5238.SAFE.zip
+Processing row 647
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210414T194818/S1B_EW_GRDM_1SDH_20210413T195548_20210413T195648_026453_03287A_2DCA.SAFE.zip
+Processing row 648
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210415T081724/S1B_EW_GRDM_1SDH_20210415T180439_20210415T180538_026481_032959_3728.SAFE.zip
+Processing row 649
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210415T081724/S1A_EW_GRDM_1SDH_20210414T082615_20210414T082719_037444_046A03_81A0.SAFE.zip
+Processing row 650
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210415T081924/S1A_EW_GRDM_1SDH_20210415T185318_20210415T185404_037465_046AB9_4042.SAFE.zip
+Processing row 651
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210415T081924/S1B_EW_GRDM_1SDH_20210414T190039_20210414T190133_026467_0328E7_0C31.SAFE.zip
+Processing row 652
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210416T201928/RCM1_OK1437325_PK1578189_1_SCLNA_20210416_203842_HH_HV_GRD.zip
+Processing row 653
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210416T201928/RCM1_OK1438220_PK1577036_1_SCLNA_20210415_203030_HH_HV_GRD.zip
+Processing row 654
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210417T210245/S1A_EW_GRDM_1SDH_20210416T211134_20210416T211234_037481_046B44_1B83.SAFE.zip
+Processing row 655
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210418T200403/S1A_EW_GRDM_1SDH_20210419T195633_20210419T195733_037524_046CB4_F88E.SAFE.zip
+Processing row 656
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210418T200403/S1A_EW_GRDM_1SDH_20210417T201259_20210417T201359_037495_046BAA_309A.SAFE.zip
+Processing row 657
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210418T205232/RCM2_OK1446916_PK1580992_1_SCLNA_20210419_203051_HH_HV_GRD.zip
+Processing row 658
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210418T214547/S1A_EW_GRDM_1SDH_20210419T115248_20210419T115352_037519_046C89_B332.SAFE.zip
+Processing row 659
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210418T214547/S1B_EW_GRDM_1SDH_20210418T120112_20210418T120212_026521_032AB3_404F.SAFE.zip
+Processing row 660
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210419T074539/S1A_EW_GRDM_1SDH_20210418T075449_20210418T075549_037502_046BED_D8AC.SAFE.zip
+Processing row 661
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210419T074639/S1A_EW_GRDM_1SDH_20210418T075449_20210418T075549_037502_046BED_D8AC.SAFE.zip
+Processing row 662
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210422T080913/S1A_EW_GRDM_1SDH_20210423T080141_20210423T080245_037575_046E6B_AC58.SAFE.zip
+Processing row 663
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210422T080913/S1A_EW_GRDM_1SDH_20210421T180542_20210421T180654_037552_046DBB_1880.SAFE.zip
+Processing row 664
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210422T081113/S1A_EW_GRDM_1SDH_20210422T184446_20210422T184550_037567_046E32_8895.SAFE.zip
+Processing row 665
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210422T081113/S1A_EW_GRDM_1SDH_20210421T082008_20210421T082108_037546_046D84_9089.SAFE.zip
+Processing row 666
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210422T081313/S1A_EW_GRDM_1SDH_20210421T082208_20210421T082308_037546_046D84_4BAD.SAFE.zip
+Processing row 667
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210422T202038/S1B_EW_GRDM_1SDH_20210423T201218_20210423T201318_026599_032D2B_5C60.SAFE.zip
+Processing row 668
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210422T202038/S1B_EW_GRDM_1SDH_20210421T202843_20210421T202943_026570_032C44_D8BB.SAFE.zip
+Processing row 669
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210424T102539/S1B_EW_GRDM_1SDH_20210424T205424_20210424T205524_026614_032DA0_68AA.SAFE.zip
+Processing row 670
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210424T102539/S1B_EW_GRDM_1SDH_20210423T103314_20210423T103359_026593_032CFA_806B.SAFE.zip
+Processing row 671
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210425T190826/S1A_EW_GRDM_1SDH_20210426T082919_20210426T083019_037619_04700B_93E8.SAFE.zip
+Processing row 672
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210426T114443/S1B_EW_GRDM_1SDH_20210426T203958_20210426T204058_026643_032E88_558B.SAFE.zip
+Processing row 673
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210426T114443/S1B_EW_GRDM_1SDH_20210426T105516_20210426T105621_026637_032E59_41FA.SAFE.zip
+Processing row 674
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210427T211846/S1B_EW_GRDM_1SDH_20210428T104119_20210428T104219_026666_032F48_D934.SAFE.zip
+Processing row 675
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210428T184243/S1B_EW_GRDM_1SDH_20210429T080405_20210429T080505_026679_032FAF_8A9F.SAFE.zip
+Processing row 676
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210428T184243/S1A_EW_GRDM_1SDH_20210428T081318_20210428T081418_037648_047113_9F01.SAFE.zip
+Processing row 677
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210428T184343/S1A_EW_GRDM_1SDH_20210429T183656_20210429T183741_037669_0471BD_C1BA.SAFE.zip
+Processing row 678
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210428T184343/S1A_EW_GRDM_1SDH_20210428T081218_20210428T081318_037648_047113_7CE7.SAFE.zip
+Processing row 679
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210429T080105/S1B_EW_GRDM_1SDH_20210429T174851_20210429T174907_026685_032FEA_70CA.SAFE.zip
+Processing row 680
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210429T080105/S1B_EW_GRDM_1SDH_20210428T085907_20210428T090007_026665_032F3D_87C3.SAFE.zip
+Processing row 681
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210429T210245/S1A_EW_GRDM_1SDH_20210428T211135_20210428T211235_037656_047157_C874.SAFE.zip
+Processing row 682
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210430T205436/S1A_EW_GRDM_1SDH_20210501T101742_20210501T101842_037693_047293_8AFA.SAFE.zip
+Processing row 683
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210502T194734/S1A_EW_GRDM_1SDH_20210501T195633_20210501T195733_037699_0472C8_B056.SAFE.zip
+Processing row 684
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210503T081908/S1A_EW_GRDM_1SDH_20210503T180443_20210503T180543_037727_0473CE_0CE2.SAFE.zip
+Processing row 685
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210503T081908/S1B_EW_GRDM_1SDH_20210502T181249_20210502T181349_026729_033161_38B9.SAFE.zip
+Processing row 686
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210503T082008/S1B_EW_GRDM_1SDH_20210504T081114_20210504T081214_026752_03320D_D6F5.SAFE.zip
+Processing row 687
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210503T082008/S1A_EW_GRDM_1SDH_20210502T190145_20210502T190216_037713_047348_B1C1.SAFE.zip
+Processing row 688
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210503T104433/S1B_EW_GRDM_1SDH_20210503T122248_20210503T122348_026740_0331B1_B325.SAFE.zip
+Processing row 689
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210503T104433/S1B_EW_GRDM_1SDH_20210502T181439_20210502T181543_026729_033162_2B33.SAFE.zip
+Processing row 690
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210503T211943/S1A_EW_GRDM_1SDH_20210504T104201_20210504T104301_037737_04741E_445D.SAFE.zip
+Processing row 691
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210504T104101/S1B_EW_GRDM_1SDH_20210504T211124_20210504T211224_026760_033251_F3F0.SAFE.zip
+Processing row 692
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210504T104101/S1B_EW_GRDM_1SDH_20210503T203044_20210503T203144_026745_0331D9_F8D3.SAFE.zip
+Processing row 693
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210504T104201/S1B_EW_GRDM_1SDH_20210505T103314_20210505T103359_026768_033291_37F0.SAFE.zip
+Processing row 694
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210504T104201/S1A_EW_GRDM_1SDH_20210503T211943_20210503T212043_037729_0473E0_29D7.SAFE.zip
+Processing row 695
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210506T075257/S1A_EW_GRDM_1SDH_20210506T084309_20210506T084330_037765_047506_C9B4.SAFE.zip
+Processing row 696
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210506T075257/S1A_EW_GRDM_1SDH_20210505T174933_20210505T174955_037756_0474C2_D778.SAFE.zip
+Processing row 697
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210506T075457/S1B_EW_GRDM_1SDH_20210505T183550_20210505T183650_026773_0332BD_04AB.SAFE.zip
+Processing row 698
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210506T075557/S1B_EW_GRDM_1SDH_20210505T183550_20210505T183650_026773_0332BD_04AB.SAFE.zip
+Processing row 699
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210506T120106/S1B_EW_GRDM_1SDH_20210506T205724_20210506T205834_026789_033337_73B5.SAFE.zip
+Processing row 700
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210506T120106/S1B_EW_GRDM_1SDH_20210506T111140_20210506T111244_026783_033308_DEE7.SAFE.zip
+Processing row 701
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210506T120210/S1B_EW_GRDM_1SDH_20210506T125024_20210506T125124_026784_03330C_C0A2.SAFE.zip
+Processing row 702
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210506T120210/S1B_EW_GRDM_1SDH_20210505T120925_20210505T121025_026769_03329B_DFC6.SAFE.zip
+Processing row 703
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210509T104806/S1B_EW_GRDM_1SDH_20210508T203958_20210508T204058_026818_033424_A9DA.SAFE.zip
+Processing row 704
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210509T180628/S1B_EW_GRDM_1SDH_20210510T103616_20210510T103716_026841_0334DA_9E02.SAFE.zip
+Processing row 705
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210509T180628/S1B_EW_GRDM_1SDH_20210508T190345_20210508T190449_026817_03341F_9F41.SAFE.zip
+Processing row 706
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210510T081219/S1B_EW_GRDM_1SDH_20210510T184343_20210510T184443_026846_033500_D6B9.SAFE.zip
+Processing row 707
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210510T081219/S1A_EW_GRDM_1SDH_20210509T185319_20210509T185405_037815_047699_C995.SAFE.zip
+Processing row 708
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210510T081319/S1B_EW_GRDM_1SDH_20210510T184343_20210510T184443_026846_033500_D6B9.SAFE.zip
+Processing row 709
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210510T081319/S1B_EW_GRDM_1SDH_20210509T082025_20210509T082125_026825_033459_72F1.SAFE.zip
+Processing row 710
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210511T210246/S1A_EW_GRDM_1SDH_20210510T211135_20210510T211235_037831_047712_D01C.SAFE.zip
+Processing row 711
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210511T210451/S1A_EW_GRDM_1SDH_20210512T111237_20210512T111341_037854_0477BE_2A69.SAFE.zip
+Processing row 712
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210511T210451/S1A_EW_GRDM_1SDH_20210510T211335_20210510T211435_037831_047712_2EFF.SAFE.zip
+Processing row 713
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210512T120114/S1A_EW_GRDM_1SDH_20210512T125104_20210512T125204_037855_0477C5_D0B7.SAFE.zip
+Processing row 714
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210512T120114/S1A_EW_GRDM_1SDH_20210512T111237_20210512T111341_037854_0477BE_2A69.SAFE.zip
+Processing row 715
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210512T214044/S1A_EW_GRDM_1SDH_20210513T102043_20210513T102106_037868_047826_0CC7.SAFE.zip
+Processing row 716
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210516T121825/S1B_EW_GRDM_1SDH_20210517T120925_20210517T121025_026944_033813_47E2.SAFE.zip
+Processing row 717
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210516T121825/S1B_EW_GRDM_1SDH_20210515T122548_20210515T122648_026915_033729_E8F7.SAFE.zip
+Processing row 718
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210516T211025/S1A_EW_GRDM_1SDH_20210516T104202_20210516T104247_037912_04796D_3017.SAFE.zip
+Processing row 719
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210517T080346/S1A_EW_GRDM_1SDH_20210517T174730_20210517T174834_037931_047A06_DF66.SAFE.zip
+Processing row 720
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210517T080346/S1A_EW_GRDM_1SDH_20210516T184447_20210516T184551_037917_047994_1616.SAFE.zip
+Processing row 721
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210517T080446/S1B_EW_GRDM_1SDH_20210517T183527_20210517T183631_026948_033834_6DCC.SAFE.zip
+Processing row 722
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210517T080446/S1A_EW_GRDM_1SDH_20210516T184447_20210516T184551_037917_047994_1616.SAFE.zip
+Processing row 723
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210518T205525/S1A_EW_GRDM_1SDH_20210518T102435_20210518T102540_037941_047A57_88EF.SAFE.zip
+Processing row 724
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210518T205625/S1A_EW_GRDM_1SDH_20210519T110429_20210519T110533_037956_047AD1_DECE.SAFE.zip
+Processing row 725
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210519T115303/S1A_EW_GRDM_1SDH_20210519T110429_20210519T110533_037956_047AD1_DECE.SAFE.zip
+Processing row 726
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210520T082720/S1A_EW_GRDM_1SDH_20210520T181313_20210520T181350_037975_047B6A_7B24.SAFE.zip
+Processing row 727
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210520T082720/S1B_EW_GRDM_1SDH_20210519T182021_20210519T182121_026977_033917_B7EC.SAFE.zip
+Processing row 728
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210520T082920/S1B_EW_GRDM_1SDH_20210521T082026_20210521T082126_027000_0339C1_385C.SAFE.zip
+Processing row 729
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210520T082920/S1A_EW_GRDM_1SDH_20210519T190827_20210519T190927_037961_047AFE_B908.SAFE.zip
+Processing row 730
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210520T203559/RCM1_OK1446916_PK1632665_1_SCLNA_20210521_093059_HH_HV_GRD.zip
+Processing row 731
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210521T082126/S1A_EW_GRDM_1SDH_20210520T083020_20210520T083120_037969_047B42_FF98.SAFE.zip
+Processing row 732
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210521T104910/S1B_EW_GRDM_1SDH_20210520T203859_20210520T203959_026993_03398D_31EB.SAFE.zip
+Processing row 733
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210523T210247/S1A_EW_GRDM_1SDH_20210522T211136_20210522T211236_038006_047C58_ECB7.SAFE.zip
+Processing row 734
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210524T120114/S1A_EW_GRDM_1SDH_20210524T125105_20210524T125205_038030_047D0C_C621.SAFE.zip
+Processing row 735
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210524T120114/S1A_EW_GRDM_1SDH_20210524T111238_20210524T111342_038029_047D05_1FA4.SAFE.zip
+Processing row 736
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210526T123948/RCM2_OK1612983_PK1639543_1_SCLNA_20210526_125237_HH_HV_GRD.zip
+Processing row 737
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210526T123948/RCM3_OK1612983_PK1639515_2_SCLNB_20210526_121939_HH_HV_GRD.zip
+Processing row 738
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210527T081805/S1A_EW_GRDM_1SDH_20210527T180544_20210527T180655_038077_047E6A_EC29.SAFE.zip
+Processing row 739
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210527T081805/S1B_EW_GRDM_1SDH_20210526T082538_20210526T082638_027073_033BFE_677F.SAFE.zip
+Processing row 740
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210527T081910/S1A_EW_GRDM_1SDH_20210527T180444_20210527T180544_038077_047E6A_A493.SAFE.zip
+Processing row 741
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210527T081910/S1B_EW_GRDM_1SDH_20210526T181250_20210526T181350_027079_033C30_6368.SAFE.zip
+Processing row 742
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210527T082110/S1B_EW_GRDM_1SDH_20210528T081215_20210528T081315_027102_033CCE_CB01.SAFE.zip
+Processing row 743
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210527T082110/S1B_EW_GRDM_1SDH_20210526T082838_20210526T082938_027073_033BFE_FFCA.SAFE.zip
+Processing row 744
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210527T211945/S1A_EW_GRDM_1SDH_20210528T104202_20210528T104302_038087_047EB7_6C7F.SAFE.zip
+Processing row 745
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210528T103958/S1B_EW_GRDM_1SDH_20210527T203145_20210527T203245_027095_033C9E_5255.SAFE.zip
+Processing row 746
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210528T113129/S1B_EW_GRDM_1SDH_20210528T113129_20210528T113229_027104_033CE4_6C96.SAFE.zip
+Processing row 747
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210528T113329/S1A_EW_GRDM_1SDH_20210527T114231_20210527T114331_038073_047E51_6700.SAFE.zip
+Processing row 748
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210528T211226/S1A_EW_GRDM_1SDH_20210528T103958_20210528T104102_038087_047EB7_1AF2.SAFE.zip
+Processing row 749
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210531T074627/S1B_EW_GRDM_1SDH_20210531T182022_20210531T182122_027152_033E48_CEA5.SAFE.zip
+Processing row 750
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210531T074627/S1A_EW_GRDM_1SDH_20210530T084310_20210530T084352_038115_047F91_C095.SAFE.zip
+Processing row 751
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210531T115303/S1A_EW_GRDM_1SDH_20210531T110430_20210531T110534_038131_048012_E4ED.SAFE.zip
+Processing row 752
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210601T082821/S1A_EW_GRDM_1SDH_20210601T181214_20210601T181314_038150_0480AF_B75C.SAFE.zip
+Processing row 753
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210601T082821/S1A_EW_GRDM_1SDH_20210531T190928_20210531T191029_038136_04803F_468E.SAFE.zip
+Processing row 754
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210601T082921/S1B_EW_GRDM_1SDH_20210602T082027_20210602T082127_027175_033EF1_37E9.SAFE.zip
+Processing row 755
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210601T082921/S1A_EW_GRDM_1SDH_20210531T190828_20210531T190928_038136_04803F_16DB.SAFE.zip
+Processing row 756
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210602T211848/S1B_EW_GRDM_1SDH_20210603T104121_20210603T104207_027191_033F75_A3B5.SAFE.zip
+Processing row 757
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210603T081220/S1B_EW_GRDM_1SDH_20210603T184345_20210603T184445_027196_033F9B_2A1A.SAFE.zip
+Processing row 758
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210603T081220/S1A_EW_GRDM_1SDH_20210602T185321_20210602T185406_038165_048120_B876.SAFE.zip
+Processing row 759
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210604T210352/S1A_EW_GRDM_1SDH_20210603T211337_20210603T211437_038181_048194_6C0E.SAFE.zip
+Processing row 760
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210604T210452/S1A_EW_GRDM_1SDH_20210605T111238_20210605T111343_038204_04823C_FA05.SAFE.zip
+Processing row 761
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210604T210452/S1A_EW_GRDM_1SDH_20210603T211337_20210603T211437_038181_048194_6C0E.SAFE.zip
+Processing row 762
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210606T195635/S1B_EW_GRDM_1SDH_20210607T194736_20210607T194836_027255_03416D_EF8F.SAFE.zip
+Processing row 763
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210606T195635/S1B_EW_GRDM_1SDH_20210605T200405_20210605T200505_027226_034099_8175.SAFE.zip
+Processing row 764
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210607T082538/S1A_EW_GRDM_1SDH_20210608T081806_20210608T081910_038246_048373_39B3.SAFE.zip
+Processing row 765
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210608T082010/S1B_EW_GRDM_1SDH_20210609T081116_20210609T081216_027277_03420E_81D2.SAFE.zip
+Processing row 766
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210608T082010/S1A_EW_GRDM_1SDH_20210607T190148_20210607T190218_038238_048338_39F1.SAFE.zip
+Processing row 767
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210608T122950/S1A_EW_GRDM_1SDH_20210607T123849_20210607T123949_038234_048319_C877.SAFE.zip
+Processing row 768
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210609T113129/S1A_EW_GRDM_1SDH_20210608T114032_20210608T114132_038248_048384_9213.SAFE.zip
+Processing row 769
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210609T113229/RCM1_OK1438077_PK1657043_2_SCLNB_20210608_225427_HH_HV_GRD.zip
+Processing row 770
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210609T113329/RCM1_OK1438077_PK1657043_1_SCLNB_20210608_225427_HH_HV_GRD.zip
+Processing row 771
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210610T121127/S1A_EW_GRDM_1SDH_20210611T120312_20210611T120412_038292_0484D0_2B61.SAFE.zip
+Processing row 772
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210610T121127/S1A_EW_GRDM_1SDH_20210609T122026_20210609T122126_038263_0483EA_9C36.SAFE.zip
+Processing row 773
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210611T120108/S1B_EW_GRDM_1SDH_20210610T120827_20210610T120927_027294_034291_C895.SAFE.zip
+Processing row 774
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210614T081927/S1A_EW_GRDM_1SDH_20210614T185322_20210614T185407_038340_048652_5D25.SAFE.zip
+Processing row 775
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210614T081927/S1B_EW_GRDM_1SDH_20210613T190106_20210613T190136_027342_0343FB_5760.SAFE.zip
+Processing row 776
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210614T082027/S1A_EW_GRDM_1SDH_20210615T081221_20210615T081321_038348_048690_5622.SAFE.zip
+Processing row 777
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210614T082027/S1A_EW_GRDM_1SDH_20210613T082922_20210613T083022_038319_0485AE_61EE.SAFE.zip
+Processing row 778
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210614T122824/S1B_EW_GRDM_1SDH_20210615T121938_20210615T122038_027367_0344C1_01E2.SAFE.zip
+Processing row 779
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210614T123128/S1B_EW_GRDM_1SDH_20210613T123904_20210613T123947_027338_0343DE_0BA0.SAFE.zip
+Processing row 780
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210615T113418/S1B_EW_GRDM_1SDH_20210616T112458_20210616T112558_027381_034531_627D.SAFE.zip
+Processing row 781
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210615T121739/S1A_EW_GRDM_1SDH_20210616T121015_20210616T121115_038365_048704_9C9B.SAFE.zip
+Processing row 782
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210616T112358/S1A_EW_GRDM_1SDH_20210615T113218_20210615T113318_038350_0486A1_D6B2.SAFE.zip
+Processing row 783
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210616T174754/S1A_EW_GRDM_1SDH_20210617T075452_20210617T075552_038377_04875A_A931.SAFE.zip
+Processing row 784
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210616T174754/S1B_EW_GRDM_1SDH_20210616T080208_20210616T080308_027379_03451E_BBE2.SAFE.zip
+Processing row 785
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210617T075348/S1B_EW_GRDM_1SDH_20210618T074442_20210618T074542_027408_03460A_3B7D.SAFE.zip
+Processing row 786
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210617T075348/S1B_EW_GRDM_1SDH_20210616T174854_20210616T174909_027385_034550_32A3.SAFE.zip
+Processing row 787
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210617T075652/S1A_EW_GRDM_1SDH_20210616T183607_20210616T183712_038369_04871F_605E.SAFE.zip
+Processing row 788
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210617T120116/S1A_EW_GRDM_1SDH_20210617T125107_20210617T125207_038380_048774_E29C.SAFE.zip
+Processing row 789
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210617T120116/S1A_EW_GRDM_1SDH_20210617T111239_20210617T111344_038379_04876D_A1EB.SAFE.zip
+Processing row 790
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210619T194737/S1A_EW_GRDM_1SDH_20210618T195636_20210618T195736_038399_048804_C47A.SAFE.zip
+Processing row 791
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210620T212146/S1B_EW_GRDM_1SDH_20210621T112830_20210621T112930_027454_034758_2560.SAFE.zip
+Processing row 792
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210620T212146/S1B_EW_GRDM_1SDH_20210620T203147_20210620T203247_027445_034714_5223.SAFE.zip
+Processing row 793
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210621T080916/S1A_EW_GRDM_1SDH_20210622T080144_20210622T080248_038450_04897E_58AA.SAFE.zip
+Processing row 794
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210621T080916/S1A_EW_GRDM_1SDH_20210620T180545_20210620T180657_038427_0488D3_07AA.SAFE.zip
+Processing row 795
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210621T211027/S1A_EW_GRDM_1SDH_20210621T104204_20210621T104304_038437_04891F_20A7.SAFE.zip
+Processing row 796
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210622T080348/S1B_EW_GRDM_1SDH_20210622T183526_20210622T183630_027473_0347DD_6238.SAFE.zip
+Processing row 797
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210622T080348/S1A_EW_GRDM_1SDH_20210621T184449_20210621T184553_038442_048946_1EC8.SAFE.zip
+Processing row 798
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210622T080448/S1B_EW_GRDM_1SDH_20210622T183526_20210622T183630_027473_0347DD_6238.SAFE.zip
+Processing row 799
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210622T080448/S1A_EW_GRDM_1SDH_20210621T184449_20210621T184553_038442_048946_1EC8.SAFE.zip
+Processing row 800
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210625T194822/S1B_EW_GRDM_1SDH_20210624T195552_20210624T195652_027503_03487C_2748.SAFE.zip
+Processing row 801
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210628T080308/S1A_EW_GRDM_1SDH_20210628T183700_20210628T183745_038544_048C65_1BDF.SAFE.zip
+Processing row 802
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210628T080308/S1B_EW_GRDM_1SDH_20210627T184346_20210627T184446_027546_0349C8_83EB.SAFE.zip
+Processing row 803
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210628T112359/S1A_EW_GRDM_1SDH_20210627T113218_20210627T113318_038525_048BDE_5E68.SAFE.zip
+Processing row 804
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210701T082740/S1A_EW_GRDM_1SDH_20210702T082012_20210702T082112_038596_048DE4_D877.SAFE.zip
+Processing row 805
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210701T082840/S1A_EW_GRDM_1SDH_20210702T082112_20210702T082212_038596_048DE4_01D4.SAFE.zip
+Processing row 806
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210702T114133/S1B_EW_GRDM_1SDH_20210703T113231_20210703T113331_027629_034C37_5518.SAFE.zip
+Processing row 807
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210704T121128/S1A_EW_GRDM_1SDH_20210705T120314_20210705T120414_038642_048F4F_4E38.SAFE.zip
+Processing row 808
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210704T121128/S1A_EW_GRDM_1SDH_20210703T122028_20210703T122128_038613_048E64_7B60.SAFE.zip
+Processing row 809
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210704T121228/S1A_EW_GRDM_1SDH_20210703T122128_20210703T122228_038613_048E64_0D6C.SAFE.zip
+Processing row 810
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210704T174733/S1A_EW_GRDM_1SDH_20210704T080349_20210704T080449_038625_048EBE_291B.SAFE.zip
+Processing row 811
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210704T174837/S1A_EW_GRDM_1SDH_20210704T080249_20210704T080349_038625_048EBE_DC65.SAFE.zip
+Processing row 812
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210705T120109/S1A_EW_GRDM_1SDH_20210706T110432_20210706T110536_038656_048FBF_36A1.SAFE.zip
+Processing row 813
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210705T120109/S1B_EW_GRDM_1SDH_20210705T111143_20210705T111247_027658_034D0A_FDFE.SAFE.zip
+Processing row 814
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210705T120214/S1B_EW_GRDM_1SDH_20210705T125027_20210705T125127_027659_034D0E_58AE.SAFE.zip
+Processing row 815
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210705T120214/S1B_EW_GRDM_1SDH_20210704T120928_20210704T121028_027644_034CA6_96A4.SAFE.zip
+Processing row 816
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210706T115305/S1A_EW_GRDM_1SDH_20210707T114447_20210707T114551_038671_04903F_DF51.SAFE.zip
+Processing row 817
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210706T115305/S1A_EW_GRDM_1SDH_20210706T110432_20210706T110536_038656_048FBF_36A1.SAFE.zip
+Processing row 818
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210707T082619/S1B_EW_GRDM_1SDH_20210708T081728_20210708T081828_027700_034E40_9B71.SAFE.zip
+Processing row 819
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210707T082923/S1B_EW_GRDM_1SDH_20210708T082028_20210708T082128_027700_034E40_8613.SAFE.zip
+Processing row 820
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210707T082923/S1B_EW_GRDM_1SDH_20210706T181924_20210706T182024_027677_034D99_E8BA.SAFE.zip
+Processing row 821
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210709T081122/S1B_EW_GRDM_1SDH_20210709T085911_20210709T090011_027715_034EB5_329C.SAFE.zip
+Processing row 822
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210709T081122/S1B_EW_GRDM_1SDH_20210708T180344_20210708T180444_027706_034E72_AAD7.SAFE.zip
+Processing row 823
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210709T081222/S1B_EW_GRDM_1SDH_20210709T184347_20210709T184447_027721_034EE5_E152.SAFE.zip
+Processing row 824
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210709T081222/S1A_EW_GRDM_1SDH_20210708T185323_20210708T185408_038690_0490D0_25A0.SAFE.zip
+Processing row 825
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210709T085811/S1B_EW_GRDM_1SDH_20210709T103619_20210709T103719_027716_034EBF_E3AE.SAFE.zip
+Processing row 826
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210709T085811/S1B_EW_GRDM_1SDH_20210708T095552_20210708T095647_027701_034E49_FB41.SAFE.zip
+Processing row 827
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210709T121740/S1A_EW_GRDM_1SDH_20210710T121017_20210710T121117_038715_04918A_6E0B.SAFE.zip
+Processing row 828
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210710T111955/S1A_EW_GRDM_1SDH_20210711T111241_20210711T111345_038729_0491F1_94D9.SAFE.zip
+Processing row 829
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210710T111955/S1A_EW_GRDM_1SDH_20210709T211339_20210709T211439_038706_049148_C384.SAFE.zip
+Processing row 830
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210714T114134/S1B_EW_GRDM_1SDH_20210715T113231_20210715T113331_027804_035164_432A.SAFE.zip
+Processing row 831
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210715T121828/S1B_EW_GRDM_1SDH_20210715T130648_20210715T130748_027805_03516A_41D8.SAFE.zip
+Processing row 832
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210715T121828/S1B_EW_GRDM_1SDH_20210714T122552_20210714T122652_027790_0350F9_EE9E.SAFE.zip
+Processing row 833
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210722T111956/S1A_EW_GRDM_1SDH_20210722T120913_20210722T121017_038890_0496C7_3FAB.SAFE.zip
+Processing row 834
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210722T111956/S1A_EW_GRDM_1SDH_20210721T112920_20210721T113020_038875_049660_A158.SAFE.zip
+Processing row 835
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210723T075454/S1B_EW_GRDM_1SDH_20210722T174756_20210722T174856_027910_035492_97E0.SAFE.zip
+Processing row 836
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210730T115307/S1A_EW_GRDM_1SDH_20210731T114448_20210731T114552_039021_049AB0_ED5B.SAFE.zip
+Processing row 837
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210730T115307/S1A_EW_GRDM_1SDH_20210729T120111_20210729T120215_038992_0499BD_CFA6.SAFE.zip
+Processing row 838
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210802T081019/S1B_EW_GRDM_1SDH_20210802T085912_20210802T090012_028065_03590D_CEAA.SAFE.zip
+Processing row 839
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210802T081019/S1B_EW_GRDM_1SDH_20210801T180446_20210801T180544_028056_0358C4_65B4.SAFE.zip
+Processing row 840
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210802T081124/S1B_EW_GRDM_1SDH_20210802T085912_20210802T090012_028065_03590D_CEAA.SAFE.zip
+Processing row 841
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210802T081124/S1B_EW_GRDM_1SDH_20210801T180446_20210801T180544_028056_0358C4_65B4.SAFE.zip
+Processing row 842
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210809T085001/S1B_EW_GRDM_1SDH_20210809T102810_20210809T102910_028168_035C43_5D2A.SAFE.zip
+Processing row 843
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210809T085001/S1B_EW_GRDM_1SDH_20210808T094743_20210808T094834_028153_035BD0_36AB.SAFE.zip
+Processing row 844
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210812T123108/S1B_EW_GRDM_1SDH_20210812T172524_20210812T172628_028216_035DBA_7200.SAFE.zip
+Processing row 845
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210812T123108/S1B_EW_GRDM_1SDH_20210811T182250_20210811T182355_028202_035D57_B7B1.SAFE.zip
+Processing row 846
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210815T111719/S1B_EW_GRDM_1SDH_20210815T125537_20210815T125641_028257_035EFF_789F.SAFE.zip
+Processing row 847
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210815T111719/S1B_EW_GRDM_1SDH_20210814T184728_20210814T184832_028246_035EA9_2C34.SAFE.zip
+Processing row 848
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210818T082542/S1A_EW_GRDM_1SDH_20210819T081810_20210819T081914_039296_04A3F0_117C.SAFE.zip
+Processing row 849
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210818T082542/S1B_EW_GRDM_1SDH_20210817T092315_20210817T092354_028284_035FF1_4C45.SAFE.zip
+Processing row 850
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210906T081732/S1A_EW_GRDM_1SDH_20210907T081021_20210907T081125_039573_04AD7F_684A.SAFE.zip
+Processing row 851
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20210906T081732/S1A_EW_GRDM_1SDH_20210905T082622_20210905T082727_039544_04AC75_E990.SAFE.zip
+Processing row 852
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20211012T081733/S1B_EW_GRDM_1SDH_20211012T095556_20211012T095651_029101_0378F1_E693.SAFE.zip
+Processing row 853
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20211012T081733/S1A_EW_GRDM_1SDH_20211011T082623_20211011T082728_040069_04BE78_34E8.SAFE.zip
+Processing row 854
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20211013T211343/S1B_EW_GRDM_1SDH_20211014T111959_20211014T112103_029131_0379E9_24EB.SAFE.zip
+Processing row 855
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20211013T211343/S1A_EW_GRDM_1SDH_20211013T112819_20211013T112923_040100_04BF98_EFCB.SAFE.zip
+Processing row 856
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20211014T080213/S1B_EW_GRDM_1SDH_20211014T174800_20211014T174900_029135_037A0B_FB9E.SAFE.zip
+Processing row 857
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20211014T080213/S1A_EW_GRDM_1SDH_20211013T175701_20211013T175750_040104_04BFB7_D7ED.SAFE.zip
+Processing row 858
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20211017T181157/S1A_EW_GRDM_1SDH_20211018T081916_20211018T082016_040171_04C20B_28E6.SAFE.zip
+Processing row 859
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20211017T181157/S1B_EW_GRDM_1SDH_20211017T082645_20211017T082745_029173_037B42_2F67.SAFE.zip
+Processing row 860
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20211018T081812/S1A_EW_GRDM_1SDH_20211018T180551_20211018T180702_040177_04C243_9E08.SAFE.zip
+Processing row 861
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20211018T081812/S1B_EW_GRDM_1SDH_20211017T082545_20211017T082645_029173_037B42_1EF3.SAFE.zip
+Processing row 862
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20211024T212154/S1A_EW_GRDM_1SDH_20211025T112819_20211025T112923_040275_04C5AD_3BED.SAFE.zip
+Processing row 863
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20211025T085815/S1B_EW_GRDM_1SDH_20211025T103623_20211025T103723_029291_037EDC_AD49.SAFE.zip
+Processing row 864
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20211025T085815/S1B_EW_GRDM_1SDH_20211024T095557_20211024T095651_029276_037E5F_7A7F.SAFE.zip
+Processing row 865
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20211027T120121/S1B_EW_GRDM_1SDH_20211028T110336_20211028T110440_029335_03804A_B10F.SAFE.zip
+Processing row 866
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20211027T120121/S1A_EW_GRDM_1SDH_20211027T111245_20211027T111349_040304_04C6A4_66BD.SAFE.zip
+Processing row 867
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20211031T211232/S1B_EW_GRDM_1SDH_20211101T103118_20211101T103222_029393_038202_FD8F.SAFE.zip
+Processing row 868
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20211031T211232/S1A_EW_GRDM_1SDH_20211031T104005_20211031T104109_040362_04C8A4_0E2E.SAFE.zip
+Processing row 869
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20211101T080253/S1B_EW_GRDM_1SDH_20211101T085104_20211101T085204_029392_0381F8_B03A.SAFE.zip
+Processing row 870
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20211101T080253/S1B_EW_GRDM_1SDH_20211031T175634_20211031T175708_029383_0381B0_C6BD.SAFE.zip
+Processing row 871
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20211101T080353/S1B_EW_GRDM_1SDH_20211101T085204_20211101T085257_029392_0381F8_23C6.SAFE.zip
+Processing row 872
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20211101T080353/S1A_EW_GRDM_1SDH_20211031T184454_20211031T184559_040367_04C8D2_8F5C.SAFE.zip
+Processing row 873
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20211101T085004/S1B_EW_GRDM_1SDH_20211101T102812_20211101T102912_029393_038201_47FB.SAFE.zip
+Processing row 874
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20211101T085004/S1B_EW_GRDM_1SDH_20211031T094745_20211031T094837_029378_03818E_319B.SAFE.zip
+Processing row 875
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20211101T120933/S1A_EW_GRDM_1SDH_20211102T120218_20211102T120318_040392_04C9B0_A584.SAFE.zip
+Processing row 876
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20211101T120933/S1A_EW_GRDM_1SDH_20211031T121832_20211031T121932_040363_04C8AF_5E97.SAFE.zip
+Processing row 877
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20211102T205432/S1A_EW_GRDM_1SDH_20211102T102443_20211102T102552_040391_04C9A6_8FBB.SAFE.zip
+Processing row 878
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20211104T181220/S1B_EW_GRDM_1SDH_20211105T081933_20211105T082033_029450_0383B0_6B58.SAFE.zip
+Processing row 879
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20211104T181220/S1A_EW_GRDM_1SDH_20211104T082828_20211104T082928_040419_04CAAA_4A7D.SAFE.zip
+Processing row 880
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20211104T181320/S1B_EW_GRDM_1SDH_20211105T081833_20211105T081933_029450_0383B0_67C4.SAFE.zip
+Processing row 881
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20211104T181320/S1B_EW_GRDM_1SDH_20211104T172406_20211104T172434_029441_038371_20D9.SAFE.zip
+Processing row 882
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20211105T081933/S1B_EW_GRDM_1SDH_20211105T180348_20211105T180448_029456_0383E9_B8CF.SAFE.zip
+Processing row 883
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20211105T081933/S1A_EW_GRDM_1SDH_20211104T181220_20211104T181320_040425_04CADC_687E.SAFE.zip
+Processing row 884
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20211105T193931/S1A_EW_GRDM_1SDH_20211104T194827_20211104T194927_040426_04CAE4_A99B.SAFE.zip
+Processing row 885
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20211108T120121/S1A_EW_GRDM_1SDH_20211108T125112_20211108T125212_040480_04CCCA_AE5F.SAFE.zip
+Processing row 886
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20211108T120121/S1A_EW_GRDM_1SDH_20211108T111244_20211108T111349_040479_04CCBF_BBF0.SAFE.zip
+Processing row 887
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20211110T082644/S1B_EW_GRDM_1SDH_20211110T181157_20211110T181257_029529_038639_0E8A.SAFE.zip
+Processing row 888
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20211110T194742/S1A_EW_GRDM_1SDH_20211109T195641_20211109T195741_040499_04CD75_D6A4.SAFE.zip
+Processing row 889
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20211111T082016/S1A_EW_GRDM_1SDH_20211111T180450_20211111T180550_040527_04CE6B_6510.SAFE.zip
+Processing row 890
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20211111T082016/S1B_EW_GRDM_1SDH_20211110T181157_20211110T181257_029529_038639_0E8A.SAFE.zip
+Processing row 891
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20211111T212151/S1B_EW_GRDM_1SDH_20211112T112835_20211112T112935_029554_0386F4_2E25.SAFE.zip
+Processing row 892
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20211114T205232/RCM3_OK1675026_PK1858357_1_SCLNA_20211114_203913_HH_HV_GRD.zip
+Processing row 893
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20211115T074633/S1B_EW_GRDM_1SDH_20211115T182028_20211115T182128_029602_038863_C350.SAFE.zip
+Processing row 894
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20211115T074633/S1B_EW_GRDM_1SDH_20211114T173932_20211114T174032_029587_0387ED_A800.SAFE.zip
+Processing row 895
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20211115T074733/S1B_EW_GRDM_1SDH_20211115T182028_20211115T182128_029602_038863_C350.SAFE.zip
+Processing row 896
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20211115T074733/S1B_EW_GRDM_1SDH_20211114T173932_20211114T174032_029587_0387ED_A800.SAFE.zip
+Processing row 897
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20211116T203606/RCM1_OK1653765_PK1861529_1_SCLNA_20211117_203020_HH_HV_GRD.zip
+Processing row 898
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20211117T212154/S1A_EW_GRDM_1SDH_20211118T112819_20211118T112923_040625_04D1CF_082B.SAFE.zip
+Processing row 899
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20211119T080413/S1A_EW_GRDM_1SDH_20211119T183612_20211119T183717_040644_04D267_6B39.SAFE.zip
+Processing row 900
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20211119T080413/S1B_EW_GRDM_1SDH_20211118T184351_20211118T184451_029646_0389BB_B9CB.SAFE.zip
+Processing row 901
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20211122T082844/S1A_EW_GRDM_1SDH_20211123T082116_20211123T082216_040696_04D442_3C60.SAFE.zip
+Processing row 902
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20211122T082844/S1B_EW_GRDM_1SDH_20211121T190752_20211121T190852_029690_038B33_4421.SAFE.zip
+Processing row 903
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20211124T121831/S1B_EW_GRDM_1SDH_20211124T130651_20211124T130751_029730_038C6C_E38B.SAFE.zip
+Processing row 904
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20211124T121831/S1B_EW_GRDM_1SDH_20211123T122555_20211123T122655_029715_038BF7_ECA7.SAFE.zip
+Processing row 905
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20211125T085003/S1B_EW_GRDM_1SDH_20211125T102811_20211125T102911_029743_038CCF_927E.SAFE.zip
+Processing row 906
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20211125T085003/S1B_EW_GRDM_1SDH_20211124T094744_20211124T094836_029728_038C5A_011F.SAFE.zip
+Processing row 907
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20211128T100838/S1B_EW_GRDM_1SDH_20211128T203805_20211128T203905_029793_038E5C_4C40.SAFE.zip
+Processing row 908
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20211129T081732/S1A_EW_GRDM_1SDH_20211130T081021_20211130T081125_040798_04D7D5_90A6.SAFE.zip
+Processing row 909
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20211129T081732/S1A_EW_GRDM_1SDH_20211128T082623_20211128T082727_040769_04D6C9_258A.SAFE.zip
+Processing row 910
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20211129T081832/S1B_EW_GRDM_1SDH_20211129T180347_20211129T180447_029806_038ECC_76A2.SAFE.zip
+Processing row 911
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20211129T081832/S1A_EW_GRDM_1SDH_20211128T181320_20211128T181420_040775_04D6FB_7662.SAFE.zip
+Processing row 912
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20211130T103922/S1B_EW_GRDM_1SDH_20211130T202336_20211130T202436_029822_038F47_BC87.SAFE.zip
+Processing row 913
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20211130T103922/S1A_EW_GRDM_1SDH_20211129T104812_20211129T104917_040785_04D756_D722.SAFE.zip
+Processing row 914
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20211130T211342/S1B_EW_GRDM_1SDH_20211201T111958_20211201T112102_029831_038F9C_A592.SAFE.zip
+Processing row 915
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20211130T211342/S1B_EW_GRDM_1SDH_20211129T212153_20211129T212248_029808_038EDA_556B.SAFE.zip
+Processing row 916
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20211202T075656/S1A_EW_GRDM_1SDH_20211201T183612_20211201T183716_040819_04D887_A86F.SAFE.zip
+Processing row 917
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20211202T214555/S1A_EW_GRDM_1SDH_20211203T115255_20211203T115400_040844_04D967_6956.SAFE.zip
+Processing row 918
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20211202T214555/S1A_EW_GRDM_1SDH_20211202T125111_20211202T125211_040830_04D8E7_819E.SAFE.zip
+Processing row 919
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20211206T081020/S1B_EW_GRDM_1SDH_20211206T175633_20211206T175707_029908_0391FE_6724.SAFE.zip
+Processing row 920
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20211206T081020/S1A_EW_GRDM_1SDH_20211205T180450_20211205T180550_040877_04DA93_B574.SAFE.zip
+Processing row 921
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20211206T081120/S1B_EW_GRDM_1SDH_20211206T175533_20211206T175633_029908_0391FE_9232.SAFE.zip
+Processing row 922
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20211206T081120/S1A_EW_GRDM_1SDH_20211205T180450_20211205T180550_040877_04DA93_B574.SAFE.zip
+Processing row 923
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20211206T081220/S1A_EW_GRDM_1SDH_20211206T184453_20211206T184557_040892_04DB0A_E0D7.SAFE.zip
+Processing row 924
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20211206T081220/S1A_EW_GRDM_1SDH_20211205T082115_20211205T082215_040871_04DA5E_A2D5.SAFE.zip
+Processing row 925
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20211206T081320/S1A_EW_GRDM_1SDH_20211205T082215_20211205T082315_040871_04DA5E_0AAB.SAFE.zip
+Processing row 926
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20211206T113234/S1A_EW_GRDM_1SDH_20211205T114203_20211205T114303_040873_04DA70_5180.SAFE.zip
+Processing row 927
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20211206T202045/S1B_EW_GRDM_1SDH_20211205T202751_20211205T202851_029895_03919E_5F79.SAFE.zip
+Processing row 928
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20211207T103117/S1A_EW_GRDM_1SDH_20211207T112052_20211207T112156_040902_04DB5F_EC72.SAFE.zip
+Processing row 929
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20211207T103117/S1A_EW_GRDM_1SDH_20211206T104004_20211206T104108_040887_04DADD_4626.SAFE.zip
+Processing row 930
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20211208T093103/S1A_EW_GRDM_1SDH_20211208T084315_20211208T084346_040915_04DBD5_4295.SAFE.zip
+Processing row 931
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20211208T120113/S1B_EW_GRDM_1SDH_20211208T205731_20211208T205841_029939_0392FB_E595.SAFE.zip
+Processing row 932
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20211208T120113/S1B_EW_GRDM_1SDH_20211208T111146_20211208T111251_029933_0392CB_637F.SAFE.zip
+Processing row 933
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20211208T120217/S1B_EW_GRDM_1SDH_20211208T125030_20211208T125130_029934_0392CF_64D0.SAFE.zip
+Processing row 934
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20211208T120217/S1B_EW_GRDM_1SDH_20211207T120931_20211207T121031_029919_03925A_4C50.SAFE.zip
+Processing row 935
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20211208T205431/S1A_EW_GRDM_1SDH_20211208T102441_20211208T102546_040916_04DBDF_F4E4.SAFE.zip
+Processing row 936
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20211210T082826/S1A_EW_GRDM_1SDH_20211210T181219_20211210T181319_040950_04DD0B_F44D.SAFE.zip
+Processing row 937
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20211210T082826/S1A_EW_GRDM_1SDH_20211209T190933_20211209T191034_040936_04DC8A_3643.SAFE.zip
+Processing row 938
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20211210T082926/S1B_EW_GRDM_1SDH_20211211T082032_20211211T082132_029975_039413_25E5.SAFE.zip
+Processing row 939
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20211210T082926/S1A_EW_GRDM_1SDH_20211209T190833_20211209T190933_040936_04DC8A_7D05.SAFE.zip
+Processing row 940
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20211210T100837/S1B_EW_GRDM_1SDH_20211210T203805_20211210T203905_029968_0393E0_83EA.SAFE.zip
+Processing row 941
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20211210T105538/S1B_EW_GRDM_1SDH_20211210T203905_20211210T204005_029968_0393E0_7D31.SAFE.zip
+Processing row 942
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20211210T105538/S1A_EW_GRDM_1SDH_20211209T110435_20211209T110539_040931_04DC59_982D.SAFE.zip
+Processing row 943
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20211210T105843/RCM1_OK1675026_PK1920260_1_SCLNA_20211209_215255_HH_HV_GRD.zip
+Processing row 944
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20211213T111958/S1A_EW_GRDM_1SDH_20211213T120915_20211213T121019_040990_04DE66_090B.SAFE.zip
+Processing row 945
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20211213T111958/S1A_EW_GRDM_1SDH_20211212T211442_20211212T211521_040981_04DE26_DBC1.SAFE.zip
+Processing row 946
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20211213T112402/S1A_EW_GRDM_1SDH_20211214T111548_20211214T111648_041004_04DEE6_0056.SAFE.zip
+Processing row 947
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20211214T115920/S1B_EW_GRDM_1SDH_20211215T110156_20211215T110240_030035_039619_DCC8.SAFE.zip
+Processing row 948
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20211214T115920/S1B_EW_GRDM_1SDH_20211213T192805_20211213T192838_030011_039549_E6C5.SAFE.zip
+Processing row 949
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20211215T074546/S1A_EW_GRDM_1SDH_20211214T075352_20211214T075456_041002_04DED0_3E0F.SAFE.zip
+Processing row 950
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20211215T074646/S1A_EW_GRDM_1SDH_20211214T075456_20211214T075556_041002_04DED0_07DE.SAFE.zip
+Processing row 951
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20211216T082743/S1B_EW_GRDM_1SDH_20211216T181155_20211216T181255_030054_0396AB_404B.SAFE.zip
+Processing row 952
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20211216T082743/S1B_EW_GRDM_1SDH_20211215T190851_20211215T190952_030040_03963F_5875.SAFE.zip
+Processing row 953
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20211218T104207/S1A_EW_GRDM_1SDH_20211217T211950_20211217T212050_041054_04E094_9B06.SAFE.zip
+Processing row 954
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20211220T102441/S1B_EW_GRDM_1SDH_20211220T205430_20211220T205530_030114_039887_357A.SAFE.zip
+Processing row 955
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20211220T205630/S1B_EW_GRDM_1SDH_20211221T115308_20211221T115408_030123_0398D0_9398.SAFE.zip
+Processing row 956
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20211220T205630/S1A_EW_GRDM_1SDH_20211220T120112_20211220T120216_041092_04E1BE_A054.SAFE.zip
+Processing row 957
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20211221T074527/S1B_EW_GRDM_1SDH_20211222T073643_20211222T073743_030135_03992A_8C17.SAFE.zip
+Processing row 958
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20211221T074527/S1B_EW_GRDM_1SDH_20211220T174031_20211220T174052_030112_039878_00C7.SAFE.zip
+Processing row 959
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20211222T082726/S1B_EW_GRDM_1SDH_20211221T182027_20211221T182127_030127_0398F1_9D0B.SAFE.zip
+Processing row 960
+Missing zip_1: /dmidata/projects/asip-cms/cgf/20211222T082826/S1B_EW_GRDM_1SDH_20211221T181927_20211221T182027_030127_0398F1_0481.SAFE.zip
+./run_preparing_data.sh: line 3: 2269566 Bus error               (core dumped) python3 preparing_data.py
+./run_preparing_data.sh: error reading input file: Permission denied
+cgf@ampere:/dmidata/users/cgf/landfast_ice$ cd ..^C
+cgf@ampere:/dmidata/users/cgf/landfast_ice$  conda activate landfastice
+
+CondaError: Run 'conda init' before 'conda activate'
+
+cgf@ampere:/dmidata/users/cgf/landfast_ice$ tmux capture-pane -p -S - > tmux_output.log
+
