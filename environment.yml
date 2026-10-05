@@ -231,6 +231,7 @@ dependencies:
   - munkres=1.1.4=pyh9f0ad1d_0
   - mysql-common=9.0.1=h266115a_1
   - mysql-libs=9.0.1=he0572af_1
+  - nbformat
   - nccl=2.23.4.1=h52f6c39_0
   - ncurses=6.5=he02047a_1
   - nest-asyncio=1.6.0=pyhd8ed1ab_0

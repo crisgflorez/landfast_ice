@@ -692,7 +692,20 @@ trainer = Trainer(
     resume_from_epoch=0,
     device=device,
     save_path=None,
-    wandb=False,
+    wandb=True,
 )
 
+wandb.init(
+    project="landfastice",
+    name="test_training_01",
+    config={
+        "epochs": 1,
+        "batch_size": 4,
+        "crop_size": 512,
+        "min_valid_ratio": 0.70,
+        "learning_rate": 3e-4,
+        "model": "UNet",
+        "in_channels": 5,
+    }
+)
 trainer.fit()
